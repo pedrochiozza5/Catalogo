@@ -1,0 +1,6238 @@
+{
+  "fecha_lista": "julio de 2025",
+  "productos": {
+    "123LISTO!": [
+      {
+        "codigo": "1089",
+        "producto": "premezcla brownie x 300 gr.",
+        "uni_x_ca": 12,
+        "precio": 2886.05,
+        "categoria": "Premezclas",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1091",
+        "producto": "premezcla crepes x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2885.86,
+        "categoria": "Premezclas",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1094",
+        "producto": "premezcla muffins de chocolate",
+        "uni_x_ca": 12,
+        "precio": 2886.05,
+        "categoria": "Premezclas",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1093",
+        "producto": "premezcla muffins vainilla",
+        "uni_x_ca": 12,
+        "precio": 2885.83,
+        "categoria": "Premezclas",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1087",
+        "producto": "premezcla pan x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2886.25,
+        "categoria": "Premezclas",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1086",
+        "producto": "premezcla pizza x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2885.80,
+        "categoria": "Premezclas",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1090",
+        "producto": "premezcla volcan de chocolate",
+        "uni_x_ca": 12,
+        "precio": 3262.29,
+        "categoria": "Premezclas",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1092",
+        "producto": "pure",
+        "uni_x_ca": 12,
+        "precio": 2007.67,
+        "categoria": "Otros",
+        "origen": "123LISTO!"
+      },
+      {
+        "codigo": "1088",
+        "producto": "rebozador x 400 gr.",
+        "uni_x_ca": 12,
+        "precio": 2384.14,
+        "categoria": "Rebozadores",
+        "origen": "123LISTO!"
+      }
+    ],
+    "ABUCEL ½": [
+      {
+        "codigo": "911",
+        "producto": "anillos bañados colegial x 54 gr.",
+        "uni_x_ca": 20,
+        "precio": 707.13,
+        "categoria": "Galletitas",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "904",
+        "producto": "chips colegial x 54 gr.",
+        "uni_x_ca": 20,
+        "precio": 524.72,
+        "categoria": "Galletitas",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "498",
+        "producto": "doraditas sin huevo x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1308.32,
+        "categoria": "Galletitas",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "702",
+        "producto": "almidon maiz x 500",
+        "uni_x_ca": 25,
+        "precio": 1501.69,
+        "categoria": "Harinas y Almidones",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "503",
+        "producto": "azucar impalpable x 500 gr.",
+        "uni_x_ca": 25,
+        "precio": 1897.29,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "502",
+        "producto": "coco rallado x 200 gr.",
+        "uni_x_ca": 30,
+        "precio": 3407.28,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "739",
+        "producto": "fecula mandioca x 500 gr.",
+        "uni_x_ca": 25,
+        "precio": 2485.87,
+        "categoria": "Harinas y Almidones",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "505",
+        "producto": "harina arroz integral x 500 gr.",
+        "uni_x_ca": 25,
+        "precio": 1530.43,
+        "categoria": "Harinas y Almidones",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "501",
+        "producto": "mezcla panificado x 500 gr.",
+        "uni_x_ca": 25,
+        "precio": 2680.73,
+        "categoria": "Premezclas",
+        "origen": "ABUCEL ½"
+      },
+      {
+        "codigo": "701",
+        "producto": "premezcla x 500 gr.",
+        "uni_x_ca": 25,
+        "precio": 2431.17,
+        "categoria": "Premezclas",
+        "origen": "ABUCEL ½"
+      }
+    ],
+    "AGLU ½": [
+      {
+        "codigo": "481",
+        "producto": "alfajores display x 18 unid.",
+        "uni_x_ca": 6,
+        "precio": 7637.76,
+        "categoria": "Alfajores",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "442",
+        "producto": "alfajores x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 2545.92,
+        "categoria": "Alfajores",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "488",
+        "producto": "anillitos dulces c/baño de chocolate x 140 gr.",
+        "uni_x_ca": 20,
+        "precio": 2081.81,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "443",
+        "producto": "conitos x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 2363.59,
+        "categoria": "Conitos",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "492",
+        "producto": "galletitas chocolate x 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1179.09,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "493",
+        "producto": "galletitas de vainillas con gotitas chocolate x 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1390.20,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "441",
+        "producto": "galletitas dulces anillos x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 2587.96,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "497",
+        "producto": "galletitas dulces c/baño de chocolate x 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 2184.59,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "494",
+        "producto": "galletitas limon x 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1151.41,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "495",
+        "producto": "galletitas queso x 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1198.93,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      },
+      {
+        "codigo": "496",
+        "producto": "galletitas saladas x 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1495.07,
+        "categoria": "Galletitas",
+        "origen": "AGLU ½"
+      }
+    ],
+    "AGLU REBOZADOR 1/2": [
+      {
+        "codigo": "440",
+        "producto": "rebozador x 450 gr.",
+        "uni_x_ca": 25,
+        "precio": 1931.71,
+        "categoria": "Rebozadores",
+        "origen": "AGLU REBOZADOR 1/2",
+        "nota": "DTO 5% POR CAJA CERRADA (SOLO DE REBOZADOR)"
+      }
+    ],
+    "ARGENTI ½": [
+      {
+        "codigo": "1524",
+        "producto": "bocaditos de brocoli x 300 gr. VEGANOS",
+        "uni_x_ca": 15,
+        "precio": 3367.49,
+        "categoria": "Productos Veganos",
+        "origen": "ARGENTI ½"
+      },
+      {
+        "codigo": "1523",
+        "producto": "bocaditos de espinaca x 300 gr. VEGANOS",
+        "uni_x_ca": 15,
+        "precio": 2955.87,
+        "categoria": "Productos Veganos",
+        "origen": "ARGENTI ½"
+      },
+      {
+        "codigo": "1522",
+        "producto": "bocaditos de papa x 300 gr. VEGANOS",
+        "uni_x_ca": 15,
+        "precio": 2955.87,
+        "categoria": "Productos Veganos",
+        "origen": "ARGENTI ½"
+      },
+      {
+        "codigo": "1451",
+        "producto": "tapas empanadas rotiseras x 460 gr. (12 uni.)",
+        "uni_x_ca": 24,
+        "precio": 2160.28,
+        "categoria": "Tapas para Empanadas/Pascualinas",
+        "origen": "ARGENTI ½"
+      },
+      {
+        "codigo": "1453",
+        "producto": "tapas empanadas veganas 330 gr. (12 uni.)",
+        "uni_x_ca": 24,
+        "precio": 1740.38,
+        "categoria": "Tapas para Empanadas/Pascualinas",
+        "origen": "ARGENTI ½"
+      },
+      {
+        "codigo": "1450",
+        "producto": "tapas empanadas x 330 gr. (12 uni.)",
+        "uni_x_ca": 24,
+        "precio": 1541.47,
+        "categoria": "Tapas para Empanadas/Pascualinas",
+        "origen": "ARGENTI ½"
+      },
+      {
+        "codigo": "1454",
+        "producto": "tapas pascualinas veganas x 380 gr.",
+        "uni_x_ca": 24,
+        "precio": 2266.63,
+        "categoria": "Tapas para Empanadas/Pascualinas",
+        "origen": "ARGENTI ½"
+      },
+      {
+        "codigo": "1452",
+        "producto": "tapas pascualinas x 380 gr.",
+        "uni_x_ca": 24,
+        "precio": 1976.57,
+        "categoria": "Tapas para Empanadas/Pascualinas",
+        "origen": "ARGENTI ½"
+      }
+    ],
+    "BAIRES ½": [
+      {
+        "codigo": "68",
+        "producto": "crackines x 120 gr.",
+        "uni_x_ca": 20,
+        "precio": 1201.69,
+        "categoria": "Galletitas Saladas",
+        "origen": "BAIRES ½"
+      }
+    ],
+    "BANDA NARANJA": [
+      {
+        "codigo": "1387",
+        "producto": "alfajores c/coco relleno c/dulce y baño de choc. x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 3024.99,
+        "categoria": "Alfajores",
+        "origen": "BANDA NARANJA"
+      },
+      {
+        "codigo": "1388",
+        "producto": "alfajores chocolate x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 3106.75,
+        "categoria": "Alfajores",
+        "origen": "BANDA NARANJA"
+      },
+      {
+        "codigo": "1390",
+        "producto": "alfajores de membrillo x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 2806.98,
+        "categoria": "Alfajores",
+        "origen": "BANDA NARANJA"
+      },
+      {
+        "codigo": "1445",
+        "producto": "alfajores diet x 18 unid. (9 frutilla/9ddl)",
+        "uni_x_ca": 8,
+        "precio": 12040.53,
+        "categoria": "Alfajores Dietéticos",
+        "origen": "BANDA NARANJA"
+      },
+      {
+        "codigo": "1389",
+        "producto": "alfajores dulce de leche azucarado x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 2779.73,
+        "categoria": "Alfajores",
+        "origen": "BANDA NARANJA"
+      },
+      {
+        "codigo": "1391",
+        "producto": "alfajores surtidos x 18 unid.",
+        "uni_x_ca": 8,
+        "precio": 10764.63,
+        "categoria": "Alfajores",
+        "origen": "BANDA NARANJA"
+      },
+      {
+        "codigo": "1392",
+        "producto": "conitos display x 9 unid.",
+        "uni_x_ca": 18,
+        "precio": 6272.97,
+        "categoria": "Conitos",
+        "origen": "BANDA NARANJA"
+      }
+    ],
+    "BLUE PATNA ½": [
+      {
+        "codigo": "124",
+        "producto": "coditos x 500 gr.",
+        "uni_x_ca": 18,
+        "precio": 3397.85,
+        "categoria": "Pastas Secas",
+        "origen": "BLUE PATNA ½"
+      },
+      {
+        "codigo": "128",
+        "producto": "dedalitos x 500 gr.",
+        "uni_x_ca": 18,
+        "precio": 3397.85,
+        "categoria": "Pastas Secas",
+        "origen": "BLUE PATNA ½"
+      },
+      {
+        "codigo": "480",
+        "producto": "fetucchini x 500gr.",
+        "uni_x_ca": 18,
+        "precio": 3397.85,
+        "categoria": "Pastas Secas",
+        "origen": "BLUE PATNA ½"
+      },
+      {
+        "codigo": "125",
+        "producto": "mostachol x 500 gr.",
+        "uni_x_ca": 18,
+        "precio": 3397.85,
+        "categoria": "Pastas Secas",
+        "origen": "BLUE PATNA ½"
+      },
+      {
+        "codigo": "126",
+        "producto": "spaghetti x 500 gr.",
+        "uni_x_ca": 30,
+        "precio": 3397.85,
+        "categoria": "Pastas Secas",
+        "origen": "BLUE PATNA ½"
+      },
+      {
+        "codigo": "127",
+        "producto": "tirabuzón x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 3397.85,
+        "categoria": "Pastas Secas",
+        "origen": "BLUE PATNA ½"
+      }
+    ],
+    "BONWERT +": [
+      {
+        "codigo": "270",
+        "producto": "caldo carne caja x 10 sobres",
+        "uni_x_ca": 48,
+        "precio": 1225.73,
+        "categoria": "Caldo",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "272",
+        "producto": "caldo gallina caja x 10 uni.",
+        "uni_x_ca": 48,
+        "precio": 1225.73,
+        "categoria": "Caldo",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "274",
+        "producto": "caldo verdura caja x 10 uni.",
+        "uni_x_ca": 48,
+        "precio": 1225.73,
+        "categoria": "Caldo",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "276",
+        "producto": "caldo verdura s/ sal caja x 10 unid.",
+        "uni_x_ca": 48,
+        "precio": 1225.73,
+        "categoria": "Caldo",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "1491",
+        "producto": "goma xantica y guar x 40 gr.",
+        "uni_x_ca": 104,
+        "precio": 1987.20,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "1530",
+        "producto": "noodles cup HONGO (sopa de fideos instantanea)",
+        "uni_x_ca": 16,
+        "precio": 1790.21,
+        "categoria": "Sopas Instantáneas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "1649",
+        "producto": "noodles cup POLLO (sopa de fideos instantanea)",
+        "uni_x_ca": 16,
+        "precio": 1790.21,
+        "categoria": "Sopas Instantáneas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "1650",
+        "producto": "noodles cup QUESO (sopa de fideos instantanea)",
+        "uni_x_ca": 16,
+        "precio": 1790.21,
+        "categoria": "Sopas Instantáneas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "1651",
+        "producto": "noodles cup TOMATE (sopa de fideos instantanea)",
+        "uni_x_ca": 16,
+        "precio": 1790.21,
+        "categoria": "Sopas Instantáneas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "1529",
+        "producto": "noodles cup VERDURA (sopa de fideos instantanea)",
+        "uni_x_ca": 16,
+        "precio": 1790.21,
+        "categoria": "Sopas Instantáneas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "281",
+        "producto": "sopa arveja caja x 5 unid.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "285",
+        "producto": "sopa cebolla caja x 5 unid.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "282",
+        "producto": "sopa choclo caja x 5 unid.",
+        "uni_x_ca": 48,
+        "precio": 1128.95,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "278",
+        "producto": "sopa esparragos caja x 5 uni.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "286",
+        "producto": "sopa espinaca caja x 5 uni.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "283",
+        "producto": "sopa hongo caja x 5 uni.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "287",
+        "producto": "sopa pollo caja x 5 uni.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "284",
+        "producto": "sopa queso caja x 5 uni.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "280",
+        "producto": "sopa verdura caja x 5 uni.",
+        "uni_x_ca": 48,
+        "precio": 1096.70,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      },
+      {
+        "codigo": "279",
+        "producto": "sopa zapallo caja x 5 uni.",
+        "uni_x_ca": 48,
+        "precio": 1128.95,
+        "categoria": "Sopas",
+        "origen": "BONWERT +"
+      }
+    ],
+    "CELIENERGY": [
+      {
+        "codigo": "1527",
+        "producto": "galletitas de cacao y mani x 130 gr",
+        "uni_x_ca": 15,
+        "precio": 1344.73,
+        "categoria": "Galletitas",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1308",
+        "producto": "alfajores c/harina de avellana y membrillo x 12 unid. BLANCO",
+        "uni_x_ca": 20,
+        "precio": 11688.61,
+        "categoria": "Alfajores",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1307",
+        "producto": "alfajores c/harina de avellana y membrillo x 12 unid. NEGRO",
+        "uni_x_ca": 20,
+        "precio": 11688.61,
+        "categoria": "Alfajores",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1434",
+        "producto": "alfajores c/harina de mani x 12 unid.",
+        "uni_x_ca": 20,
+        "precio": 11688.61,
+        "categoria": "Alfajores",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1267",
+        "producto": "alfajores c/harina de zapallo y algarroba x 12 unid.",
+        "uni_x_ca": 20,
+        "precio": 11688.61,
+        "categoria": "Alfajores",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1632",
+        "producto": "alfajores de cacao y mani x 12 uni.",
+        "uni_x_ca": 20,
+        "precio": 11688.60,
+        "categoria": "Alfajores",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1266",
+        "producto": "alfajores de nuez x 12 unid.",
+        "uni_x_ca": 20,
+        "precio": 11688.61,
+        "categoria": "Alfajores",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1549",
+        "producto": "galletitas de nuez bañadas c/chocolate blanco x170 gr.",
+        "uni_x_ca": 15,
+        "precio": 2475.66,
+        "categoria": "Galletitas",
+        "origen": "CELIENERGY"
+      },
+      {
+        "codigo": "1528",
+        "producto": "galletitas de nuez x 130 gr.",
+        "uni_x_ca": 15,
+        "precio": 1344.73,
+        "categoria": "Galletitas",
+        "origen": "CELIENERGY"
+      }
+    ],
+    "CEREALKO ½": [
+      {
+        "codigo": "510",
+        "producto": "arrocitas con sal",
+        "uni_x_ca": 12,
+        "precio": 828.69,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "512",
+        "producto": "arrocitas dulces",
+        "uni_x_ca": 12,
+        "precio": 828.69,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "511",
+        "producto": "arrocitas sin sal",
+        "uni_x_ca": 12,
+        "precio": 828.69,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "1474",
+        "producto": "arrocitas tost chocolate y arandanos",
+        "uni_x_ca": 12,
+        "precio": 1169.28,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "1475",
+        "producto": "arrocitas tost chocolate y naranja",
+        "uni_x_ca": 12,
+        "precio": 1169.28,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "513",
+        "producto": "macrobiotica con sal c/sesamo y lino",
+        "uni_x_ca": 12,
+        "precio": 795.81,
+        "categoria": "Macrobióticos",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "515",
+        "producto": "macrobiotica dulce",
+        "uni_x_ca": 12,
+        "precio": 795.76,
+        "categoria": "Macrobióticos",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "514",
+        "producto": "macrobiotica sin sal c/sesamo y lino",
+        "uni_x_ca": 12,
+        "precio": 795.81,
+        "categoria": "Macrobióticos",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "518",
+        "producto": "mini arrocitas caramel",
+        "uni_x_ca": 10,
+        "precio": 961.19,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "519",
+        "producto": "mini arrocitas chocolate",
+        "uni_x_ca": 10,
+        "precio": 961.19,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "517",
+        "producto": "mini arrocitas finas hierbas",
+        "uni_x_ca": 10,
+        "precio": 961.19,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "516",
+        "producto": "mini arrocitas queso romano",
+        "uni_x_ca": 10,
+        "precio": 961.19,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "1580",
+        "producto": "mini arrocitas yogurt frutilla",
+        "uni_x_ca": 10,
+        "precio": 961.15,
+        "categoria": "Arrocitas",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "1612",
+        "producto": "nachos sabor chile picante x 80 gr.",
+        "uni_x_ca": 15,
+        "precio": 1263.80,
+        "categoria": "Snacks",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "1192",
+        "producto": "nachos sabor jalapeño 70 gr.",
+        "uni_x_ca": 12,
+        "precio": 1169.47,
+        "categoria": "Snacks",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "1190",
+        "producto": "nachos sabor ketchup x 90 gr.",
+        "uni_x_ca": 12,
+        "precio": 1169.47,
+        "categoria": "Snacks",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "1191",
+        "producto": "nachos sabor queso x 90 gr.",
+        "uni_x_ca": 12,
+        "precio": 1169.47,
+        "categoria": "Snacks",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "524",
+        "producto": "nachos style x 250 gr.",
+        "uni_x_ca": 15,
+        "precio": 2141.21,
+        "categoria": "Snacks",
+        "origen": "CEREALKO ½"
+      },
+      {
+        "codigo": "525",
+        "producto": "nachos style x 90gr.",
+        "uni_x_ca": 12,
+        "precio": 1086.07,
+        "categoria": "Snacks",
+        "origen": "CEREALKO ½"
+      }
+    ],
+    "CHOCOLEIT +": [
+      {
+        "codigo": "439",
+        "producto": "alfajores blanco x 12 unid.",
+        "uni_x_ca": 1,
+        "precio": 20121.38,
+        "categoria": "Alfajores",
+        "origen": "CHOCOLEIT +"
+      },
+      {
+        "codigo": "438",
+        "producto": "alfajores negro x 12 unid.",
+        "uni_x_ca": 1,
+        "precio": 20121.38,
+        "categoria": "Alfajores",
+        "origen": "CHOCOLEIT +"
+      },
+      {
+        "codigo": "1269",
+        "producto": "puro cacao amargo en polvo x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 6941.57,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "CHOCOLEIT +"
+      }
+    ],
+    "CIUDAD MADRE +": [
+      {
+        "codigo": "618",
+        "producto": "empanadas arabes x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 7493.74,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "627",
+        "producto": "empanadas atun x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "619",
+        "producto": "empanadas calabaza x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "623",
+        "producto": "empanadas capresse x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "624",
+        "producto": "empanadas carne x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "621",
+        "producto": "empanadas cebolla y q x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "622",
+        "producto": "empanadas humita x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "626",
+        "producto": "empanadas j y q x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "625",
+        "producto": "empanadas pollo x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "620",
+        "producto": "empanadas verdura x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "760",
+        "producto": "fosforitos x 3 unid.",
+        "uni_x_ca": 1,
+        "precio": 5903.75,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1617",
+        "producto": "pizza 4 quesos",
+        "uni_x_ca": 1,
+        "precio": 7464.39,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "612",
+        "producto": "pre-pizza tomate",
+        "uni_x_ca": 1,
+        "precio": 4094.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1643",
+        "producto": "rapiditas x 6 uni.",
+        "uni_x_ca": 1,
+        "precio": 4675.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "677",
+        "producto": "sandwich miga x 4",
+        "uni_x_ca": 1,
+        "precio": 9520.94,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "636",
+        "producto": "tarta atun",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "628",
+        "producto": "tarta calabaza",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "632",
+        "producto": "tarta capresse",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "633",
+        "producto": "tarta carne",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "630",
+        "producto": "tarta cebolla y queso",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "631",
+        "producto": "tarta humita",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "635",
+        "producto": "tarta jamon y queso",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "634",
+        "producto": "tarta pollo",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "629",
+        "producto": "tarta verdura",
+        "uni_x_ca": 1,
+        "precio": 8759.25,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1609",
+        "producto": "tequeños x 6 uni.",
+        "uni_x_ca": 1,
+        "precio": 7095.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1614",
+        "producto": "wraps roll jamon y queso x uni.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1615",
+        "producto": "wraps roll peceto x uni.",
+        "uni_x_ca": 1,
+        "precio": 7250.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1613",
+        "producto": "wraps roll pollo a la crema x uni.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1616",
+        "producto": "wraps roll pollo al curry x uni.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1046",
+        "producto": "hamburguesa de quinoa",
+        "uni_x_ca": 1,
+        "precio": 5902.50,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "639",
+        "producto": "medialunas jam y queso x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 3171.24,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "637",
+        "producto": "medialunas x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 3171.24,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "614",
+        "producto": "pizza c/muzzarella",
+        "uni_x_ca": 1,
+        "precio": 7617.50,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "609",
+        "producto": "canelones j y q x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 5810.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "607",
+        "producto": "canelones ricota x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 5810.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "608",
+        "producto": "canelones verdura x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 5810.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "606",
+        "producto": "lasagnas mixtas",
+        "uni_x_ca": 1,
+        "precio": 7498.74,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "586",
+        "producto": "ñoquis de papa x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 3621.05,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "591",
+        "producto": "ravioles jamon y queso x 250gr.",
+        "uni_x_ca": 1,
+        "precio": 5912.50,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "590",
+        "producto": "ravioles pollo y verd. X 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 5912.50,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "588",
+        "producto": "ravioles ricota x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 5912.50,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "589",
+        "producto": "ravioles verdura x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 5912.50,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "597",
+        "producto": "sorrentinos 4 quesos x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "596",
+        "producto": "sorrentinos capresse x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "595",
+        "producto": "sorrentinos jamon y queso x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "592",
+        "producto": "sorrentinos ricota x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "593",
+        "producto": "sorrentinos verdura x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "CIUDAD MADRE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      }
+    ],
+    "COPANI ½": [
+      {
+        "codigo": "1509",
+        "producto": "tableta cacao 100% x 63gr.",
+        "uni_x_ca": 12,
+        "precio": 4068.17,
+        "categoria": "Chocolates",
+        "origen": "COPANI ½",
+        "nota": "no apto para celiacos"
+      },
+      {
+        "codigo": "1512",
+        "producto": "tableta cacao 55% sin azucar x 63gr.",
+        "uni_x_ca": 12,
+        "precio": 3288.48,
+        "categoria": "Chocolates",
+        "origen": "COPANI ½",
+        "nota": "no apto para celiacos"
+      },
+      {
+        "codigo": "1513",
+        "producto": "tableta cacao 70% con stevia x 63gr.",
+        "uni_x_ca": 12,
+        "precio": 3182.40,
+        "categoria": "Chocolates",
+        "origen": "COPANI ½",
+        "nota": "no apto para celiacos"
+      },
+      {
+        "codigo": "1507",
+        "producto": "tableta cacao 70% x 63gr.",
+        "uni_x_ca": 12,
+        "precio": 3182.40,
+        "categoria": "Chocolates",
+        "origen": "COPANI ½",
+        "nota": "no apto para celiacos"
+      },
+      {
+        "codigo": "1508",
+        "producto": "tableta cacao 80% x 63gr.",
+        "uni_x_ca": 12,
+        "precio": 3288.48,
+        "categoria": "Chocolates",
+        "origen": "COPANI ½",
+        "nota": "no apto para celiacos"
+      },
+      {
+        "codigo": "1514",
+        "producto": "tableta chocolate con leche de coco x 63gr.",
+        "uni_x_ca": 12,
+        "precio": 3182.40,
+        "categoria": "Chocolates",
+        "origen": "COPANI ½",
+        "nota": "no apto para celiacos"
+      },
+      {
+        "codigo": "1638",
+        "producto": "tableta de chocolate con cookies x 63gr.",
+        "uni_x_ca": 12,
+        "precio": 2758.08,
+        "categoria": "Chocolates",
+        "origen": "COPANI ½",
+        "nota": "no apto para celiacos"
+      }
+    ],
+    "DANTELLI": [
+      {
+        "codigo": "1482",
+        "producto": "alfajor frutilla x 12 uni.",
+        "uni_x_ca": 8,
+        "precio": 7731.24,
+        "categoria": "Alfajores",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1486",
+        "producto": "alfajor blanco de ddl y nuez PREMIUM x 12 uni.",
+        "uni_x_ca": 8,
+        "precio": 9862.65,
+        "categoria": "Alfajores Premium",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1484",
+        "producto": "alfajor cafe y avellana PREMIUM x 12 uni.",
+        "uni_x_ca": 8,
+        "precio": 12343.16,
+        "categoria": "Alfajores Premium",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1483",
+        "producto": "alfajor ddl con harina de almendras PREMIUM X 12 UNI.",
+        "uni_x_ca": 8,
+        "precio": 8723.76,
+        "categoria": "Alfajores Premium",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1481",
+        "producto": "alfajor ddl y frutilla x 12 uni.",
+        "uni_x_ca": 8,
+        "precio": 8234.36,
+        "categoria": "Alfajores",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1480",
+        "producto": "alfajor dulce de leche x 12 uni.",
+        "uni_x_ca": 8,
+        "precio": 7851.71,
+        "categoria": "Alfajores",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1479",
+        "producto": "alfajor pasta de avellanas x 12 uni.",
+        "uni_x_ca": 8,
+        "precio": 9800.12,
+        "categoria": "Alfajores",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1531",
+        "producto": "alfajor PEQUE ddl x 35 gr. x 30 uni.",
+        "uni_x_ca": 1,
+        "precio": 13381.31,
+        "categoria": "Alfajores",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1485",
+        "producto": "alfajor triple ddl y vainilla x 12 uni.",
+        "uni_x_ca": 6,
+        "precio": 12497.13,
+        "categoria": "Alfajores",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1489",
+        "producto": "cookies con naranja x 130 gr.",
+        "uni_x_ca": 20,
+        "precio": 811.70,
+        "categoria": "Galletitas",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1487",
+        "producto": "galletita rellena de limon x 35 gr. x 12 uni.",
+        "uni_x_ca": 8,
+        "precio": 5898.67,
+        "categoria": "Galletitas",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1488",
+        "producto": "horus (galletita choco rellena de vainilla) x 90 gr.",
+        "uni_x_ca": 40,
+        "precio": 910.19,
+        "categoria": "Galletitas",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1490",
+        "producto": "mini alfajor de maicena x 110 gr. (6 uni.)",
+        "uni_x_ca": 40,
+        "precio": 908.51,
+        "categoria": "Alfajores",
+        "origen": "DANTELLI"
+      },
+      {
+        "codigo": "1604",
+        "producto": "snack cheddar x 130 gr.",
+        "uni_x_ca": 20,
+        "precio": 1022.45,
+        "categoria": "Snacks",
+        "origen": "DANTELLI"
+      }
+    ],
+    "DELICEL +": [
+      {
+        "codigo": "1340",
+        "producto": "galletitas c/chips x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1342",
+        "producto": "galletitas pepas de membrillo x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1339",
+        "producto": "galletitas sabor chocolate x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1341",
+        "producto": "galletitas sabor coco x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1338",
+        "producto": "galletitas sabor limon x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1337",
+        "producto": "galletitas sabor naranja x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1547",
+        "producto": "bizcochos sabor oliva x 180 gr.",
+        "uni_x_ca": 20,
+        "precio": 1240.00,
+        "categoria": "Bizcochos",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1545",
+        "producto": "bizcochos sabor pizza x 180 gr.",
+        "uni_x_ca": 20,
+        "precio": 1240.00,
+        "categoria": "Bizcochos",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1546",
+        "producto": "bizcochos sabor queso x 180 gr.",
+        "uni_x_ca": 20,
+        "precio": 1240.00,
+        "categoria": "Bizcochos",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1422",
+        "producto": "bizcochos salados x 180 gr.",
+        "uni_x_ca": 20,
+        "precio": 1240.00,
+        "categoria": "Bizcochos",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1464",
+        "producto": "galletitas pepas de batata",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1360",
+        "producto": "galletitas sabor miel x 200 gr.(sin leche)",
+        "uni_x_ca": 20,
+        "precio": 1302.00,
+        "categoria": "Galletitas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1347",
+        "producto": "premezcla bizcochuelo chocolate x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 1949.28,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1611",
+        "producto": "premezcla bizcochuelo naranja x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 1949.28,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1346",
+        "producto": "premezcla bizcochuelo vainilla x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 1949.28,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1544",
+        "producto": "premezcla de pan integral x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2604.00,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1344",
+        "producto": "premezcla de pan x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 1949.28,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1343",
+        "producto": "premezcla ñoquis x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2856.96,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1348",
+        "producto": "premezcla pizza x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 1949.28,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1345",
+        "producto": "premezcla universal x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 1949.28,
+        "categoria": "Premezclas",
+        "origen": "DELICEL +"
+      },
+      {
+        "codigo": "1428",
+        "producto": "rebozador x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2127.84,
+        "categoria": "Rebozadores",
+        "origen": "DELICEL +"
+      }
+    ],
+    "DELICIAN ½": [
+      {
+        "codigo": "1324",
+        "producto": "alfajor maicena 70 gr.",
+        "uni_x_ca": 30,
+        "precio": 1835.71,
+        "categoria": "Alfajores",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1328",
+        "producto": "brownie x 90 gr.",
+        "uni_x_ca": 48,
+        "precio": 2937.22,
+        "categoria": "Repostería",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1326",
+        "producto": "budin relleno c/dulce de leche x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 3671.90,
+        "categoria": "Budines",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1327",
+        "producto": "coquitos x 6 unid.",
+        "uni_x_ca": 36,
+        "precio": 2725.65,
+        "categoria": "Repostería",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1607",
+        "producto": "crackers mix semillas x 80 gr.",
+        "uni_x_ca": 30,
+        "precio": 2400.72,
+        "categoria": "Galletitas Saladas",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1329",
+        "producto": "mini bombon x 150 gr.",
+        "uni_x_ca": 36,
+        "precio": 3530.61,
+        "categoria": "Chocolates",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1330",
+        "producto": "mini coco x 150 gr.",
+        "uni_x_ca": 36,
+        "precio": 3530.61,
+        "categoria": "Repostería",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1321",
+        "producto": "pan chips x 4 unid.",
+        "uni_x_ca": 24,
+        "precio": 3530.73,
+        "categoria": "Panificados",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1592",
+        "producto": "pan dulce con chips x 240 gr.",
+        "uni_x_ca": 15,
+        "precio": 3248.04,
+        "categoria": "Pan Dulce",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1320",
+        "producto": "pan hamburguesas x 2 uni.",
+        "uni_x_ca": 35,
+        "precio": 3248.08,
+        "categoria": "Panificados",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1323",
+        "producto": "pastafrola 8 cm",
+        "uni_x_ca": 60,
+        "precio": 2711.42,
+        "categoria": "Repostería",
+        "origen": "DELICIAN ½"
+      },
+      {
+        "codigo": "1322",
+        "producto": "pizzetas x 4 unid.",
+        "uni_x_ca": 24,
+        "precio": 3389.52,
+        "categoria": "Panificados",
+        "origen": "DELICIAN ½"
+      }
+    ],
+    "DESTACCADOS +": [
+      {
+        "codigo": "1537",
+        "producto": "pan de molde con semillas x 500 gr.",
+        "uni_x_ca": 16,
+        "precio": 3817.38,
+        "categoria": "Panificados",
+        "origen": "DESTACCADOS +"
+      },
+      {
+        "codigo": "1536",
+        "producto": "pan de molde x 500 gr.",
+        "uni_x_ca": 16,
+        "precio": 3606.01,
+        "categoria": "Panificados",
+        "origen": "DESTACCADOS +"
+      }
+    ],
+    "DIMAX": [
+      {
+        "codigo": "406",
+        "producto": "alfajor maicena x 12 unid.",
+        "uni_x_ca": 1,
+        "precio": 9665.22,
+        "categoria": "Alfajores",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "859",
+        "producto": "alfajor regional dulce x 12 unid.",
+        "uni_x_ca": 1,
+        "precio": 9666.14,
+        "categoria": "Alfajores",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "408",
+        "producto": "alfajor regional membrillo x 12 unid. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 9666.13,
+        "categoria": "Alfajores",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "411",
+        "producto": "biscuit caja x 120 gr.",
+        "uni_x_ca": 1,
+        "precio": 1931.59,
+        "categoria": "Galletitas",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "412",
+        "producto": "bizcochitos de queso caja x 200 gr.",
+        "uni_x_ca": 1,
+        "precio": 1804.08,
+        "categoria": "Bizcochos",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "1207",
+        "producto": "bizcochos mix de semillas x 150 gr.",
+        "uni_x_ca": 1,
+        "precio": 1652.87,
+        "categoria": "Bizcochos",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "414",
+        "producto": "bizcochos salados caja x 200 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 1651.24,
+        "categoria": "Bizcochos",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "417",
+        "producto": "chocomiel caja x 200 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 1676.85,
+        "categoria": "Galletitas",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "413",
+        "producto": "fajitas caja x 300 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 2884.03,
+        "categoria": "Panificados",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "410",
+        "producto": "pepas batata caja x 200 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 1676.85,
+        "categoria": "Galletitas",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "416",
+        "producto": "pepas c/chips x 160 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 1676.84,
+        "categoria": "Galletitas",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "409",
+        "producto": "pepas membrillo caja x 200 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 1676.84,
+        "categoria": "Galletitas",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "415",
+        "producto": "tostadas caja x 200 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 2710.33,
+        "categoria": "Tostadas",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "392",
+        "producto": "bandeja frola membrillo",
+        "uni_x_ca": 1,
+        "precio": 2520.90,
+        "categoria": "Repostería",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "388",
+        "producto": "budin chips chocolate",
+        "uni_x_ca": 1,
+        "precio": 2028.87,
+        "categoria": "Budines",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "387",
+        "producto": "budin marmolado",
+        "uni_x_ca": 1,
+        "precio": 2028.87,
+        "categoria": "Budines",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "386",
+        "producto": "budin vainilla",
+        "uni_x_ca": 1,
+        "precio": 1850.51,
+        "categoria": "Budines",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "740",
+        "producto": "galletitas de vainilla caja x 200 gr.",
+        "uni_x_ca": 1,
+        "precio": 1606.63,
+        "categoria": "Galletitas",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "1332",
+        "producto": "pan integral x 490 gr.",
+        "uni_x_ca": 1,
+        "precio": 3646.87,
+        "categoria": "Panificados",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "419",
+        "producto": "polvo para hornear x 200 gr.",
+        "uni_x_ca": 1,
+        "precio": 1957.26,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "391",
+        "producto": "cuadrados coco x 12 unid.",
+        "uni_x_ca": 1,
+        "precio": 14279.48,
+        "categoria": "Repostería",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "390",
+        "producto": "cuadrados frola batata x 12 unid. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 13138.53,
+        "categoria": "Repostería",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "389",
+        "producto": "cuadrados frola membrillo x 12 unid. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 13138.53,
+        "categoria": "Repostería",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "405",
+        "producto": "palitos salados x 75 gr.",
+        "uni_x_ca": 1,
+        "precio": 1410.95,
+        "categoria": "Snacks",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "376",
+        "producto": "pan dulce x 450 gr. con chips (CAJA)",
+        "uni_x_ca": 1,
+        "precio": 4208.23,
+        "categoria": "Pan Dulce",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "377",
+        "producto": "pan dulce x 450 gr. con frutas (CAJA)",
+        "uni_x_ca": 1,
+        "precio": 4466.91,
+        "categoria": "Pan Dulce",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "382",
+        "producto": "pionono (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 2960.40,
+        "categoria": "Panificados",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "380",
+        "producto": "pan hamburguesas x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 1493.95,
+        "categoria": "Panificados",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "1193",
+        "producto": "pan lactal feteado x 490 gr.",
+        "uni_x_ca": 1,
+        "precio": 4032.14,
+        "categoria": "Panificados",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "378",
+        "producto": "pan molde sin leche",
+        "uni_x_ca": 1,
+        "precio": 3452.32,
+        "categoria": "Panificados",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "381",
+        "producto": "pan rallado x 250 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 1750.96,
+        "categoria": "Rebozadores",
+        "origen": "DIMAX"
+      },
+      {
+        "codigo": "889",
+        "producto": "pan rallado x 500 gr. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 2962.18,
+        "categoria": "Rebozadores",
+        "origen": "DIMAX"
+      }
+    ],
+    "DIMAX HARINAS": [
+      {
+        "codigo": "423",
+        "producto": "almidón maíz x kg. (sin lacteo)",
+        "uni_x_ca": 15,
+        "precio": 2403.34,
+        "categoria": "Harinas y Almidones",
+        "origen": "DIMAX HARINAS"
+      },
+      {
+        "codigo": "422",
+        "producto": "harina arroz x kg. (sin lacteo)",
+        "uni_x_ca": 15,
+        "precio": 2874.08,
+        "categoria": "Harinas y Almidones",
+        "origen": "DIMAX HARINAS"
+      },
+      {
+        "codigo": "424",
+        "producto": "mandioca x kg. (sin lacteo)",
+        "uni_x_ca": 15,
+        "precio": 2978.35,
+        "categoria": "Harinas y Almidones",
+        "origen": "DIMAX HARINAS"
+      },
+      {
+        "codigo": "1476",
+        "producto": "premezcla universal x 500 kg. (sin lacteo)",
+        "uni_x_ca": 30,
+        "precio": 2019.25,
+        "categoria": "Premezclas",
+        "origen": "DIMAX HARINAS"
+      },
+      {
+        "codigo": "418",
+        "producto": "premezcla universal x kg. (sin lacteo)",
+        "uni_x_ca": 15,
+        "precio": 3777.43,
+        "categoria": "Premezclas",
+        "origen": "DIMAX HARINAS"
+      }
+    ],
+    "DIMAX REFRIGERADO": [
+      {
+        "codigo": "375",
+        "producto": "pizzetas mediana",
+        "uni_x_ca": 1,
+        "precio": 870.73,
+        "categoria": "Refrigerados",
+        "origen": "DIMAX REFRIGERADO"
+      },
+      {
+        "codigo": "474",
+        "producto": "milanesas soja x 4 unid. (sin lacteo)",
+        "uni_x_ca": 1,
+        "precio": 1747.68,
+        "categoria": "Refrigerados",
+        "origen": "DIMAX REFRIGERADO"
+      },
+      {
+        "codigo": "371",
+        "producto": "tallarines x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 1935.84,
+        "categoria": "Refrigerados",
+        "origen": "DIMAX REFRIGERADO"
+      },
+      {
+        "codigo": "372",
+        "producto": "tapas empanadas x 12 unid.",
+        "uni_x_ca": 1,
+        "precio": 1985.38,
+        "categoria": "Refrigerados",
+        "origen": "DIMAX REFRIGERADO"
+      },
+      {
+        "codigo": "373",
+        "producto": "tapas tartas x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 2137.76,
+        "categoria": "Refrigerados",
+        "origen": "DIMAX REFRIGERADO"
+      }
+    ],
+    "DOMINIKA +": [
+      {
+        "codigo": "231",
+        "producto": "empanadas caprese x 3 unid.",
+        "uni_x_ca": 1,
+        "precio": 5409.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "228",
+        "producto": "empanadas capresse x 6 uni.",
+        "uni_x_ca": 1,
+        "precio": 9490.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "229",
+        "producto": "empanadas jam. y queso x 3 uni.",
+        "uni_x_ca": 1,
+        "precio": 5639.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "226",
+        "producto": "empanadas jam. y queso x 6 uni.",
+        "uni_x_ca": 1,
+        "precio": 9900.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "230",
+        "producto": "empanadas pollo x 3 unid.",
+        "uni_x_ca": 1,
+        "precio": 5639.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "227",
+        "producto": "empanadas pollo x 6 uni.",
+        "uni_x_ca": 1,
+        "precio": 9900.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "948",
+        "producto": "empanadas verdura x 3 uni.",
+        "uni_x_ca": 1,
+        "precio": 5409.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "912",
+        "producto": "empanadas verdura x 6 unid.",
+        "uni_x_ca": 1,
+        "precio": 9490.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "252",
+        "producto": "ravioles ricota",
+        "uni_x_ca": 1,
+        "precio": 7170.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "253",
+        "producto": "ravioles ricota y verdura",
+        "uni_x_ca": 1,
+        "precio": 7170.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "254",
+        "producto": "sorrentinos jamon y queso x 8 unid.",
+        "uni_x_ca": 1,
+        "precio": 8010.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "256",
+        "producto": "sorrentinos ricota y queso x 8 unid.",
+        "uni_x_ca": 1,
+        "precio": 7680.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "255",
+        "producto": "sorrentinos verdura y ricota x 8 unid.",
+        "uni_x_ca": 1,
+        "precio": 7680.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "266",
+        "producto": "tarta capresse",
+        "uni_x_ca": 1,
+        "precio": 4949.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "265",
+        "producto": "tarta jamon y queso",
+        "uni_x_ca": 1,
+        "precio": 5179.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "267",
+        "producto": "tarta pollo",
+        "uni_x_ca": 1,
+        "precio": 5179.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "268",
+        "producto": "tarta verdura",
+        "uni_x_ca": 1,
+        "precio": 4949.99,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "681",
+        "producto": "pizzetas cebolla x 10 unid.",
+        "uni_x_ca": 1,
+        "precio": 5520.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      },
+      {
+        "codigo": "248",
+        "producto": "pizzetas tomate x 10 unid.",
+        "uni_x_ca": 1,
+        "precio": 5520.00,
+        "categoria": "Congelados",
+        "origen": "DOMINIKA +",
+        "nota": "PRODUCTOS CONGELADOS POR PEDIDO"
+      }
+    ],
+    "DOÑA ROSA ½": [
+      {
+        "codigo": "553",
+        "producto": "cabello de angel x 400 gr.",
+        "uni_x_ca": 15,
+        "precio": 3506.52,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "538",
+        "producto": "caseritos al huevo x 400 gr.",
+        "uni_x_ca": 12,
+        "precio": 3397.95,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "539",
+        "producto": "caseritos c/espinaca x 400 gr.",
+        "uni_x_ca": 12,
+        "precio": 3506.52,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "540",
+        "producto": "caseritos c/morron x 400 gr.",
+        "uni_x_ca": 12,
+        "precio": 3506.59,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "1477",
+        "producto": "caseritos multivegetal",
+        "uni_x_ca": 12,
+        "precio": 3547.42,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "545",
+        "producto": "coditos x 400 gr.",
+        "uni_x_ca": 15,
+        "precio": 3071.66,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "554",
+        "producto": "dedalitos x 500gr.",
+        "uni_x_ca": 15,
+        "precio": 3071.66,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "548",
+        "producto": "fusilli multivegetal x 500 gr.",
+        "uni_x_ca": 15,
+        "precio": 3547.49,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "547",
+        "producto": "fusilli x 500 gr.",
+        "uni_x_ca": 15,
+        "precio": 3071.66,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "1044",
+        "producto": "moños al huevo x 500 gr.",
+        "uni_x_ca": 15,
+        "precio": 3506.54,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "1045",
+        "producto": "moños multivegetal 400 gr.",
+        "uni_x_ca": 15,
+        "precio": 3506.71,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "555",
+        "producto": "municiones x 400 gr.",
+        "uni_x_ca": 15,
+        "precio": 3506.64,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "549",
+        "producto": "ñoquis x 400 gr.",
+        "uni_x_ca": 15,
+        "precio": 3071.61,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "546",
+        "producto": "penne rigate x 500 gr.",
+        "uni_x_ca": 15,
+        "precio": 3071.66,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      },
+      {
+        "codigo": "551",
+        "producto": "rigatoni (mostachol) x 400 gr.",
+        "uni_x_ca": 15,
+        "precio": 3071.66,
+        "categoria": "Pastas Secas",
+        "origen": "DOÑA ROSA ½"
+      }
+    ],
+    "IL SOLE +": [
+      {
+        "codigo": "212",
+        "producto": "bocaditos pollo x 300 gr.",
+        "uni_x_ca": 6,
+        "precio": 6912.50,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1588",
+        "producto": "bocaditos veggie sabor pollo x 300 gr.",
+        "uni_x_ca": 6,
+        "precio": 6687.51,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1249",
+        "producto": "chipá x 12 unid. x 300 gr.",
+        "uni_x_ca": 6,
+        "precio": 5937.49,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "210",
+        "producto": "empanadas carne x 6 unid.",
+        "uni_x_ca": 6,
+        "precio": 8062.50,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "211",
+        "producto": "empanadas jamon y queso x 6 unid.",
+        "uni_x_ca": 6,
+        "precio": 8062.50,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "214",
+        "producto": "figacitas x 5 unid.",
+        "uni_x_ca": 6,
+        "precio": 3075.00,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "213",
+        "producto": "pizzas c/muzza x 2 unid.",
+        "uni_x_ca": 6,
+        "precio": 5812.49,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1538",
+        "producto": "tenders de pollo x 300 gr.",
+        "uni_x_ca": 6,
+        "precio": 8100.00,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "209",
+        "producto": "ñoquis x 300 gr.",
+        "uni_x_ca": 6,
+        "precio": 3412.50,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "1254",
+        "producto": "ravioles jamon y queso x 300 gr.",
+        "uni_x_ca": 6,
+        "precio": 3662.50,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "208",
+        "producto": "ravioles pollo y verdura x 300 gr.",
+        "uni_x_ca": 6,
+        "precio": 3662.50,
+        "categoria": "Congelados",
+        "origen": "IL SOLE +",
+        "nota": "PRODUCTOS CONGELADOS"
+      }
+    ],
+    "INTIPAN": [
+      {
+        "codigo": "1520",
+        "producto": "pan rallado 500 gr.",
+        "uni_x_ca": 14,
+        "precio": 2812.50,
+        "categoria": "Rebozadores",
+        "origen": "INTIPAN"
+      },
+      {
+        "codigo": "1519",
+        "producto": "tostadas con semillas x 150gr. (3 paq.x50gr.)",
+        "uni_x_ca": 18,
+        "precio": 2175.00,
+        "categoria": "Tostadas",
+        "origen": "INTIPAN"
+      },
+      {
+        "codigo": "1518",
+        "producto": "tostadas x 150gr. (3 paq.x50gr.)",
+        "uni_x_ca": 18,
+        "precio": 2175.00,
+        "categoria": "Tostadas",
+        "origen": "INTIPAN"
+      }
+    ],
+    "JULICROC": [
+      {
+        "codigo": "485",
+        "producto": "doninas 5 semillas x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1739.58,
+        "categoria": "Galletitas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "486",
+        "producto": "doninas chips x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1739.58,
+        "categoria": "Galletitas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "991",
+        "producto": "doninas frutos del bosque x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1739.58,
+        "categoria": "Galletitas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "839",
+        "producto": "doninas nueces x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1739.58,
+        "categoria": "Galletitas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1375",
+        "producto": "aritos frutados x 150 gr.",
+        "uni_x_ca": 14,
+        "precio": 827.64,
+        "categoria": "Cereales",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1618",
+        "producto": "batatas fritas x 90 gr.",
+        "uni_x_ca": 16,
+        "precio": 1182.13,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1525",
+        "producto": "beecroc x 120 gr. (cereal con miel)",
+        "uni_x_ca": 20,
+        "precio": 827.64,
+        "categoria": "Cereales",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1376",
+        "producto": "bolitas de chocolate",
+        "uni_x_ca": 14,
+        "precio": 827.64,
+        "categoria": "Cereales",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1438",
+        "producto": "doninas chocolate y mani x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1739.58,
+        "categoria": "Galletitas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1439",
+        "producto": "doninas coco y ddl x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1739.58,
+        "categoria": "Galletitas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1334",
+        "producto": "doninas saladas c/semillas x 180 gr.",
+        "uni_x_ca": 20,
+        "precio": 1739.58,
+        "categoria": "Galletitas Saladas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1331",
+        "producto": "doninas sin azucar de limon X 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1743.25,
+        "categoria": "Galletitas Dietéticas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1526",
+        "producto": "doninas sin azucar de naranja X 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1743.25,
+        "categoria": "Galletitas Dietéticas",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1048",
+        "producto": "mani pelado x 100 gr.",
+        "uni_x_ca": 18,
+        "precio": 822.44,
+        "categoria": "Frutos Secos",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1504",
+        "producto": "mani tostado con cascara x 300 gr.",
+        "uni_x_ca": 16,
+        "precio": 1943.83,
+        "categoria": "Frutos Secos",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "312",
+        "producto": "mix croc x 45 gr.",
+        "uni_x_ca": 24,
+        "precio": 502.65,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "314",
+        "producto": "palitos de maiz extra queso (chizitos) x 65 gr.",
+        "uni_x_ca": 14,
+        "precio": 700.69,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "315",
+        "producto": "palitos de maiz extra queso (chizitos) x 180 gr.",
+        "uni_x_ca": 14,
+        "precio": 1531.11,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1289",
+        "producto": "palitos de maiz sabor queso x 200 gr.(chizitos)",
+        "uni_x_ca": 14,
+        "precio": 1065.37,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "444",
+        "producto": "papas fritas x 250 gr.",
+        "uni_x_ca": 12,
+        "precio": 2946.70,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "445",
+        "producto": "papas fritas x 35 gr.",
+        "uni_x_ca": 24,
+        "precio": 565.73,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "973",
+        "producto": "papas fritas (asado criollo) x 70 gr.",
+        "uni_x_ca": 16,
+        "precio": 1133.29,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1417",
+        "producto": "papas fritas (cheddar) x 70 gr.",
+        "uni_x_ca": 16,
+        "precio": 1133.29,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1049",
+        "producto": "papas fritas (crema y ciboulette) x 70 gr.",
+        "uni_x_ca": 16,
+        "precio": 1133.29,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1579",
+        "producto": "papas fritas (huevo frito) x 70 gr.",
+        "uni_x_ca": 16,
+        "precio": 1133.28,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1447",
+        "producto": "papas fritas corte americano x 80 grs.",
+        "uni_x_ca": 16,
+        "precio": 1117.90,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "487",
+        "producto": "papas fritas x 70 gr.",
+        "uni_x_ca": 16,
+        "precio": 978.37,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "745",
+        "producto": "papas pay x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 1287.48,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "1640",
+        "producto": "snack curvis sabor queso x 65 gr.",
+        "uni_x_ca": 14,
+        "precio": 700.69,
+        "categoria": "Snacks",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "317",
+        "producto": "cereal azucarado (tutucas) x 38 gr.",
+        "uni_x_ca": 32,
+        "precio": 370.69,
+        "categoria": "Cereales",
+        "origen": "JULICROC"
+      },
+      {
+        "codigo": "318",
+        "producto": "cereal azucarado (tutucas) x 90 gr.",
+        "uni_x_ca": 14,
+        "precio": 771.96,
+        "categoria": "Cereales",
+        "origen": "JULICROC"
+      }
+    ],
+    "KAPAC ½": [
+      {
+        "codigo": "56",
+        "producto": "galletitas chocolate x 200 gr.",
+        "uni_x_ca": 10,
+        "precio": 2150.83,
+        "categoria": "Galletitas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "55",
+        "producto": "galletitas con chips x 200 gr.",
+        "uni_x_ca": 10,
+        "precio": 1902.65,
+        "categoria": "Galletitas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "54",
+        "producto": "galletitas pepas x 200 gr.",
+        "uni_x_ca": 10,
+        "precio": 1902.69,
+        "categoria": "Galletitas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "57",
+        "producto": "galletitas vainilla x 200 gr.",
+        "uni_x_ca": 10,
+        "precio": 2088.09,
+        "categoria": "Galletitas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "59",
+        "producto": "vainillas x 10 unid.",
+        "uni_x_ca": 20,
+        "precio": 3503.50,
+        "categoria": "Galletitas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "48",
+        "producto": "almidón maíz x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 1280.83,
+        "categoria": "Harinas y Almidones",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "1582",
+        "producto": "budin con cookies x 180 gr.",
+        "uni_x_ca": 12,
+        "precio": 2510.31,
+        "categoria": "Budines",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "1581",
+        "producto": "budin sabor vainilla x 180 gr.",
+        "uni_x_ca": 12,
+        "precio": 2510.31,
+        "categoria": "Budines",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "1590",
+        "producto": "galletitas kids chocolate x 150 gr. (DISNEY)",
+        "uni_x_ca": 10,
+        "precio": 2105.23,
+        "categoria": "Galletitas Infantiles",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "1589",
+        "producto": "galletitas kids frutilla x 150 gr. (DISNEY)",
+        "uni_x_ca": 10,
+        "precio": 2105.23,
+        "categoria": "Galletitas Infantiles",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "1591",
+        "producto": "galletitas kids vainilla x 150 gr. (DISNEY)",
+        "uni_x_ca": 10,
+        "precio": 2105.23,
+        "categoria": "Galletitas Infantiles",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "47",
+        "producto": "harina arroz x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 1483.35,
+        "categoria": "Harinas y Almidones",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "49",
+        "producto": "mandioca x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 1568.99,
+        "categoria": "Harinas y Almidones",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "44",
+        "producto": "polvo leudante x 200 gr.",
+        "uni_x_ca": 10,
+        "precio": 1925.52,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "40",
+        "producto": "premezcla bizcochuelo chocolate x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 3113.63,
+        "categoria": "Premezclas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "39",
+        "producto": "premezcla bizcochuelo vainilla x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 3113.62,
+        "categoria": "Premezclas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "37",
+        "producto": "premezcla pan x 500 gr.",
+        "uni_x_ca": 8,
+        "precio": 2885.43,
+        "categoria": "Premezclas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "38",
+        "producto": "premezcla pizza x 500 gr.",
+        "uni_x_ca": 8,
+        "precio": 2885.42,
+        "categoria": "Premezclas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "42",
+        "producto": "premezcla tartas y empanadas x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 2876.86,
+        "categoria": "Premezclas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "43",
+        "producto": "premezcla universal x 500 gr.",
+        "uni_x_ca": 24,
+        "precio": 2059.70,
+        "categoria": "Premezclas",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "45",
+        "producto": "rebozador x 450 gr.",
+        "uni_x_ca": 12,
+        "precio": 2892.53,
+        "categoria": "Rebozadores",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "695",
+        "producto": "pan dulce con chips x 250 gr.",
+        "uni_x_ca": 8,
+        "precio": 0.01,
+        "categoria": "Pan Dulce",
+        "origen": "KAPAC ½"
+      },
+      {
+        "codigo": "909",
+        "producto": "rosca de pascuas",
+        "uni_x_ca": 1,
+        "precio": 0.00,
+        "categoria": "Panificados",
+        "origen": "KAPAC ½"
+      }
+    ],
+    "KAPAC PANIFICADOS": [
+      {
+        "codigo": "866",
+        "producto": "alfajores blanco x 20 uni.",
+        "uni_x_ca": 20,
+        "precio": 16060.25,
+        "categoria": "Alfajores",
+        "origen": "KAPAC PANIFICADOS"
+      },
+      {
+        "codigo": "870",
+        "producto": "alfajores negro x 20 uni.",
+        "uni_x_ca": 20,
+        "precio": 16060.25,
+        "categoria": "Alfajores",
+        "origen": "KAPAC PANIFICADOS"
+      },
+      {
+        "codigo": "60",
+        "producto": "magdalenas x 8 unid.",
+        "uni_x_ca": 10,
+        "precio": 3761.17,
+        "categoria": "Panificados",
+        "origen": "KAPAC PANIFICADOS"
+      },
+      {
+        "codigo": "968",
+        "producto": "pan rebanado liviano x 600 gr.",
+        "uni_x_ca": 6,
+        "precio": 5221.71,
+        "categoria": "Panificados",
+        "origen": "KAPAC PANIFICADOS"
+      },
+      {
+        "codigo": "36",
+        "producto": "pizzetas x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 4000.81,
+        "categoria": "Panificados",
+        "origen": "KAPAC PANIFICADOS"
+      }
+    ],
+    "L.C.MATIAS +": [
+      {
+        "codigo": "978",
+        "producto": "bastones de muzzarella rebozado",
+        "uni_x_ca": 1,
+        "precio": 3000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "100",
+        "producto": "empanadas carne x 5 unid.",
+        "uni_x_ca": 1,
+        "precio": 10000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "102",
+        "producto": "empanadas humita x 5 unid.",
+        "uni_x_ca": 1,
+        "precio": 8500.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "105",
+        "producto": "empanadas j y q x 5 unid.",
+        "uni_x_ca": 1,
+        "precio": 10000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "101",
+        "producto": "empanadas pollo x 5 unid.",
+        "uni_x_ca": 1,
+        "precio": 10000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "103",
+        "producto": "empanadas verdura x 5 unid.",
+        "uni_x_ca": 1,
+        "precio": 8500.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "109",
+        "producto": "milanesas soja c/arroz jamani x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 3000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "117",
+        "producto": "postre bon bon indiv.",
+        "uni_x_ca": 1,
+        "precio": 3000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "118",
+        "producto": "postre brownie indiv.",
+        "uni_x_ca": 1,
+        "precio": 3000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "119",
+        "producto": "postre cheescake indiv.",
+        "uni_x_ca": 1,
+        "precio": 3000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "122",
+        "producto": "postre lemon pie indiv.",
+        "uni_x_ca": 1,
+        "precio": 3000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "120",
+        "producto": "postre manzana indiv.",
+        "uni_x_ca": 1,
+        "precio": 3300.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "123",
+        "producto": "tiramisú indiv.",
+        "uni_x_ca": 1,
+        "precio": 3300.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "113",
+        "producto": "pizzetas tomate x 10 unid.",
+        "uni_x_ca": 1,
+        "precio": 7000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "106",
+        "producto": "pizzetas tomate x 5 unid.",
+        "uni_x_ca": 1,
+        "precio": 4000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "116",
+        "producto": "pre-pizza cebolla",
+        "uni_x_ca": 1,
+        "precio": 4500.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "115",
+        "producto": "pre-pizza tomate",
+        "uni_x_ca": 1,
+        "precio": 4000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "112",
+        "producto": "panzottis esp- provolone x 9 unid.",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "110",
+        "producto": "panzottis jam-ric-muzza x 9 unid",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      },
+      {
+        "codigo": "977",
+        "producto": "sorrentinos j y q x 8 u",
+        "uni_x_ca": 1,
+        "precio": 6000.00,
+        "categoria": "Congelados",
+        "origen": "L.C.MATIAS +",
+        "nota": "PRODUCTOS CONGELADOS"
+      }
+    ],
+    "LA DELFINA +": [
+      {
+        "codigo": "1459",
+        "producto": "crepes rellenos de verdura x 2 uni.",
+        "uni_x_ca": 1,
+        "precio": 6034.98,
+        "categoria": "Congelados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "1280",
+        "producto": "crepes rellenos jamon y queso x 2 unid.",
+        "uni_x_ca": 1,
+        "precio": 6885.50,
+        "categoria": "Congelados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "1246",
+        "producto": "milanesa napolitana",
+        "uni_x_ca": 1,
+        "precio": 8516.12,
+        "categoria": "Congelados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "362",
+        "producto": "pan rallado x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 2691.80,
+        "categoria": "Rebozadores",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "1247",
+        "producto": "pollo al strogonoff",
+        "uni_x_ca": 1,
+        "precio": 7841.84,
+        "categoria": "Congelados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "361",
+        "producto": "sándwich miga x 4 j y q",
+        "uni_x_ca": 1,
+        "precio": 5257.55,
+        "categoria": "Panificados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "1248",
+        "producto": "wok de vegetales",
+        "uni_x_ca": 1,
+        "precio": 4972.91,
+        "categoria": "Congelados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "334",
+        "producto": "cuadraditos brownie x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 10961.14,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "337",
+        "producto": "cuadraditos coco x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 10961.17,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "336",
+        "producto": "cuadraditos frolitas x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 10464.04,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "335",
+        "producto": "cuadraditos manzana x 4 unid.",
+        "uni_x_ca": 1,
+        "precio": 10464.04,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "330",
+        "producto": "pasta frola batata 17 cm diam. x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 5300.76,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "329",
+        "producto": "pasta frola membrillo 17 cm diam. x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 5300.76,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "333",
+        "producto": "tarta coco 17 cm diam. x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 7464.60,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "332",
+        "producto": "tarta dulce de leche 17 cm diam.x 450 gr.",
+        "uni_x_ca": 1,
+        "precio": 7464.60,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "331",
+        "producto": "tarta manzana 17 cm diam. x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 5955.65,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "339",
+        "producto": "torta brownie x 100 gr.",
+        "uni_x_ca": 1,
+        "precio": 3746.81,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "338",
+        "producto": "torta lemon pie x 140 gr.",
+        "uni_x_ca": 1,
+        "precio": 3746.81,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "340",
+        "producto": "torta tiramisú x 140 gr.",
+        "uni_x_ca": 1,
+        "precio": 4078.29,
+        "categoria": "Repostería",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "359",
+        "producto": "pan 5 semillas rebanado x 250 gr.",
+        "uni_x_ca": 1,
+        "precio": 4080.93,
+        "categoria": "Panificados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "576",
+        "producto": "pan integral en rodajas x 550 gr.",
+        "uni_x_ca": 8,
+        "precio": 5477.93,
+        "categoria": "Panificados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "358",
+        "producto": "pan molde rebanado x 500 gr.",
+        "uni_x_ca": 8,
+        "precio": 4891.78,
+        "categoria": "Panificados",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "357",
+        "producto": "tarta calabaza x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 5970.65,
+        "categoria": "Tartas",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "355",
+        "producto": "tarta cebolla x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 5825.22,
+        "categoria": "Tartas",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "354",
+        "producto": "tarta jamon y queso x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 6932.22,
+        "categoria": "Tartas",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      },
+      {
+        "codigo": "356",
+        "producto": "tarta verdura x 400 gr.",
+        "uni_x_ca": 1,
+        "precio": 6116.95,
+        "categoria": "Tartas",
+        "origen": "LA DELFINA +",
+        "nota": "POR PEDIDO"
+      }
+    ],
+    "LE.Q ½": [
+      {
+        "codigo": "966",
+        "producto": "papas fritas americanas x 100 gr.",
+        "uni_x_ca": 20,
+        "precio": 1124.15,
+        "categoria": "Snacks",
+        "origen": "LE.Q ½"
+      },
+      {
+        "codigo": "742",
+        "producto": "papas fritas española x 100 gr.",
+        "uni_x_ca": 20,
+        "precio": 1124.15,
+        "categoria": "Snacks",
+        "origen": "LE.Q ½"
+      },
+      {
+        "codigo": "743",
+        "producto": "papas fritas x 480 gr.",
+        "uni_x_ca": 6,
+        "precio": 4673.94,
+        "categoria": "Snacks",
+        "origen": "LE.Q ½"
+      },
+      {
+        "codigo": "741",
+        "producto": "papas fritas x 65 gr.",
+        "uni_x_ca": 28,
+        "precio": 797.27,
+        "categoria": "Snacks",
+        "origen": "LE.Q ½"
+      },
+      {
+        "codigo": "1558",
+        "producto": "papas sabor jamon x 280 gr.",
+        "uni_x_ca": 7,
+        "precio": 3915.19,
+        "categoria": "Snacks",
+        "origen": "LE.Q ½"
+      },
+      {
+        "codigo": "1559",
+        "producto": "papas sabor jamon x 65 gr.",
+        "uni_x_ca": 28,
+        "precio": 977.16,
+        "categoria": "Snacks",
+        "origen": "LE.Q ½"
+      }
+    ],
+    "LIBRE +": [
+      {
+        "codigo": "1562",
+        "producto": "bizcochitos x 200 gr. (artesanales)",
+        "uni_x_ca": 12,
+        "precio": 1845.00,
+        "categoria": "Bizcochos",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1563",
+        "producto": "bizcochitos azucaradas blanca x 200 gr. (artesanales)",
+        "uni_x_ca": 12,
+        "precio": 1845.00,
+        "categoria": "Bizcochos",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1564",
+        "producto": "bizcochitos azucaradas negras x 200 gr. (artesanales)",
+        "uni_x_ca": 12,
+        "precio": 1845.00,
+        "categoria": "Bizcochos",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1599",
+        "producto": "galletitas surtidas x 200 gr. (artesanales)",
+        "uni_x_ca": 12,
+        "precio": 2456.31,
+        "categoria": "Galletitas",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1598",
+        "producto": "snack fugazeta x 200 gr. (artesanales)",
+        "uni_x_ca": 12,
+        "precio": 2509.20,
+        "categoria": "Snacks",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1597",
+        "producto": "snack queso x 200 gr. (artesanales)",
+        "uni_x_ca": 12,
+        "precio": 2456.31,
+        "categoria": "Snacks",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1606",
+        "producto": "tablita con semillas x 160 gr.",
+        "uni_x_ca": 12,
+        "precio": 1808.10,
+        "categoria": "Galletitas Saladas",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1605",
+        "producto": "tablita tradicional x 160 gr.",
+        "uni_x_ca": 12,
+        "precio": 1808.10,
+        "categoria": "Galletitas Saladas",
+        "origen": "LIBRE +"
+      },
+      {
+        "codigo": "1596",
+        "producto": "taquitos x 5 unid.",
+        "uni_x_ca": 1,
+        "precio": 2220.15,
+        "categoria": "Snacks",
+        "origen": "LIBRE +"
+      }
+    ],
+    "LULEMUU +": [
+      {
+        "codigo": "842",
+        "producto": "alfajor blanco x 12 unid.",
+        "uni_x_ca": 12,
+        "precio": 4965.06,
+        "categoria": "Alfajores",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "843",
+        "producto": "alfajor dulce de leche x 12 unid.",
+        "uni_x_ca": 12,
+        "precio": 4965.06,
+        "categoria": "Alfajores",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "844",
+        "producto": "alfajor limon x 12 unid.",
+        "uni_x_ca": 12,
+        "precio": 4965.06,
+        "categoria": "Alfajores",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "845",
+        "producto": "alfajor marroc x 12 unid.",
+        "uni_x_ca": 12,
+        "precio": 4965.06,
+        "categoria": "Alfajores",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "846",
+        "producto": "alfajor yogurt frutilla y vainilla x 12 unid.",
+        "uni_x_ca": 12,
+        "precio": 4965.06,
+        "categoria": "Alfajores",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1429",
+        "producto": "bachoco x 60g",
+        "uni_x_ca": 36,
+        "precio": 823.79,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "865",
+        "producto": "barritas de arroz blanca x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 5928.04,
+        "categoria": "Barritas de Cereal",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "849",
+        "producto": "barritas de arroz chocolate x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 5928.02,
+        "categoria": "Barritas de Cereal",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "851",
+        "producto": "barritas de arroz dulce de leche x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 5928.04,
+        "categoria": "Barritas de Cereal",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "850",
+        "producto": "barritas de arroz frutilla x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 5928.02,
+        "categoria": "Barritas de Cereal",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1314",
+        "producto": "barritas de arroz sabor limon 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 5928.04,
+        "categoria": "Barritas de Cereal",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "853",
+        "producto": "bizcochos arroz azucarados",
+        "uni_x_ca": 24,
+        "precio": 635.53,
+        "categoria": "Bizcochos",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1333",
+        "producto": "chorqui frutilla x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 7721.97,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1241",
+        "producto": "chorqui x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 7721.97,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1263",
+        "producto": "daditos sabor frutilla x 120 gr.",
+        "uni_x_ca": 12,
+        "precio": 1452.02,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1262",
+        "producto": "daditos sabor mani x 120 gr.",
+        "uni_x_ca": 12,
+        "precio": 1452.02,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "979",
+        "producto": "limu x 20 unid.",
+        "uni_x_ca": 12,
+        "precio": 7234.64,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1594",
+        "producto": "planita ciboulette x 70 gr.",
+        "uni_x_ca": 18,
+        "precio": 824.73,
+        "categoria": "Galletitas Saladas",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1593",
+        "producto": "planita clasica x 70 gr,",
+        "uni_x_ca": 18,
+        "precio": 824.73,
+        "categoria": "Galletitas Saladas",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1595",
+        "producto": "planita tomate x 70 gr.",
+        "uni_x_ca": 18,
+        "precio": 824.73,
+        "categoria": "Galletitas Saladas",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1101",
+        "producto": "repop blanca mani x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 6793.19,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "1055",
+        "producto": "repop negra avellana x 20 unid.",
+        "uni_x_ca": 6,
+        "precio": 6793.19,
+        "categoria": "Snacks",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "852",
+        "producto": "tostadas arroz x 120 gr",
+        "uni_x_ca": 10,
+        "precio": 1021.86,
+        "categoria": "Tostadas",
+        "origen": "LULEMUU +"
+      },
+      {
+        "codigo": "965",
+        "producto": "tostadas multisemillas x 120 gr.",
+        "uni_x_ca": 10,
+        "precio": 1021.86,
+        "categoria": "Tostadas",
+        "origen": "LULEMUU +"
+      }
+    ],
+    "LYV ½": [
+      {
+        "codigo": "1214",
+        "producto": "barras de almendras-pasas-miel x 18 unid.",
+        "uni_x_ca": 4,
+        "precio": 14063.89,
+        "categoria": "Barritas de Cereal",
+        "origen": "LYV ½"
+      },
+      {
+        "codigo": "1213",
+        "producto": "barras de cajú-semillas zapallo-sal marina x 18 unid.",
+        "uni_x_ca": 4,
+        "precio": 14063.89,
+        "categoria": "Barritas de Cereal",
+        "origen": "LYV ½"
+      },
+      {
+        "codigo": "1215",
+        "producto": "barras de maní-quinoa-chocolate x 18 unid.",
+        "uni_x_ca": 4,
+        "precio": 14063.89,
+        "categoria": "Barritas de Cereal",
+        "origen": "LYV ½"
+      }
+    ],
+    "NAQUET": [
+      {
+        "codigo": "1239",
+        "producto": "grisines clasicos x 140 gr.",
+        "uni_x_ca": 16,
+        "precio": 1766.92,
+        "categoria": "Panificados",
+        "origen": "NAQUET"
+      },
+      {
+        "codigo": "1238",
+        "producto": "grisines con cebolla x 140 gr.",
+        "uni_x_ca": 16,
+        "precio": 1766.92,
+        "categoria": "Panificados",
+        "origen": "NAQUET"
+      },
+      {
+        "codigo": "1236",
+        "producto": "grisines con queso x 140 gr.",
+        "uni_x_ca": 16,
+        "precio": 1766.92,
+        "categoria": "Panificados",
+        "origen": "NAQUET"
+      },
+      {
+        "codigo": "1237",
+        "producto": "grisines con semillas x 140 gr.",
+        "uni_x_ca": 16,
+        "precio": 1766.92,
+        "categoria": "Panificados",
+        "origen": "NAQUET"
+      },
+      {
+        "codigo": "1466",
+        "producto": "hojaldritas x 140 gr.",
+        "uni_x_ca": 32,
+        "precio": 1864.72,
+        "categoria": "Panificados",
+        "origen": "NAQUET"
+      },
+      {
+        "codigo": "1162",
+        "producto": "palmeritas 160 gr.",
+        "uni_x_ca": 32,
+        "precio": 1910.40,
+        "categoria": "Panificados",
+        "origen": "NAQUET"
+      }
+    ],
+    "NATUZEN GALLETAS +": [
+      {
+        "codigo": "18",
+        "producto": "barquillos x 110 gr.",
+        "uni_x_ca": 14,
+        "precio": 1205.20,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "14",
+        "producto": "bastones coco x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "12",
+        "producto": "bizcochos x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Bizcochos",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1265",
+        "producto": "caritas de queso x 180 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Galletitas Saladas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "9",
+        "producto": "chips x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1201",
+        "producto": "cookies de chocolate x 140 gr.",
+        "uni_x_ca": 14,
+        "precio": 838.40,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1202",
+        "producto": "cookies de limon x 140 gr.",
+        "uni_x_ca": 14,
+        "precio": 838.40,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1199",
+        "producto": "cookies de naranja x 140 gr.",
+        "uni_x_ca": 14,
+        "precio": 838.40,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1203",
+        "producto": "cookies de vainilla x 140 gr.",
+        "uni_x_ca": 14,
+        "precio": 838.40,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1200",
+        "producto": "cookies miti-miti x 140 gr.",
+        "uni_x_ca": 14,
+        "precio": 838.40,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "938",
+        "producto": "cuadrada chocolate",
+        "uni_x_ca": 25,
+        "precio": 1110.88,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "939",
+        "producto": "cuadrada coco",
+        "uni_x_ca": 25,
+        "precio": 1110.88,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "19",
+        "producto": "cubanitos x 110 gr.",
+        "uni_x_ca": 14,
+        "precio": 1205.20,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "4",
+        "producto": "galletas arroz cuadradas con sal x 95 gr.",
+        "uni_x_ca": 18,
+        "precio": 733.60,
+        "categoria": "Galletas de Arroz",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "6",
+        "producto": "galletas arroz cuadradas dulces x 95 gr.",
+        "uni_x_ca": 18,
+        "precio": 733.60,
+        "categoria": "Galletas de Arroz",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "5",
+        "producto": "galletas arroz cuadradas sin sal x 95 gr.",
+        "uni_x_ca": 18,
+        "precio": 733.60,
+        "categoria": "Galletas de Arroz",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1",
+        "producto": "galletas arroz redondas con sal x 100 gr.",
+        "uni_x_ca": 20,
+        "precio": 670.72,
+        "categoria": "Galletas de Arroz",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "3",
+        "producto": "galletas arroz redondas dulces x 100 gr.",
+        "uni_x_ca": 20,
+        "precio": 670.72,
+        "categoria": "Galletas de Arroz",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "2",
+        "producto": "galletas arroz redondas sin sal x 100 gr.",
+        "uni_x_ca": 20,
+        "precio": 670.72,
+        "categoria": "Galletas de Arroz",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "13",
+        "producto": "lengüitas limón x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "8",
+        "producto": "pepas x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "11",
+        "producto": "rueditas chocolate x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "10",
+        "producto": "rueditas vainilla x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1310.00,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "17",
+        "producto": "tapitas alfajor bañadas",
+        "uni_x_ca": 1,
+        "precio": 2860.00,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "16",
+        "producto": "tapitas alfajor x 280 gr.",
+        "uni_x_ca": 12,
+        "precio": 1676.80,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "NATUZEN GALLETAS +"
+      },
+      {
+        "codigo": "1212",
+        "producto": "cookies nevaditas x 140 gr.",
+        "uni_x_ca": 14,
+        "precio": 838.40,
+        "categoria": "Galletitas",
+        "origen": "NATUZEN GALLETAS +"
+      }
+    ],
+    "NATUZEN HARINAS +": [
+      {
+        "codigo": "22",
+        "producto": "almidón maíz x kg.",
+        "uni_x_ca": 9,
+        "precio": 2237.62,
+        "categoria": "Harinas y Almidones",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "23",
+        "producto": "harina arroz x kg.",
+        "uni_x_ca": 9,
+        "precio": 2237.62,
+        "categoria": "Harinas y Almidones",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "24",
+        "producto": "mandioca x 900 gr.",
+        "uni_x_ca": 9,
+        "precio": 2672.72,
+        "categoria": "Harinas y Almidones",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "1608",
+        "producto": "premezcla bizcochuelo chocolate x 450 gr.",
+        "uni_x_ca": 12,
+        "precio": 2237.62,
+        "categoria": "Premezclas",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "29",
+        "producto": "premezcla bizcochuelo vainilla x 450 gr.",
+        "uni_x_ca": 12,
+        "precio": 2237.62,
+        "categoria": "Premezclas",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "27",
+        "producto": "premezcla pan x 450 gr.",
+        "uni_x_ca": 12,
+        "precio": 2237.62,
+        "categoria": "Premezclas",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "28",
+        "producto": "premezcla pizza x 450 gr.",
+        "uni_x_ca": 12,
+        "precio": 2237.62,
+        "categoria": "Premezclas",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "26",
+        "producto": "premezcla repostería x 450 gr.",
+        "uni_x_ca": 12,
+        "precio": 1740.37,
+        "categoria": "Premezclas",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "25",
+        "producto": "premezcla repostería x kg.",
+        "uni_x_ca": 9,
+        "precio": 3232.12,
+        "categoria": "Premezclas",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "1259",
+        "producto": "rebozador arroz x 240 gr.",
+        "uni_x_ca": 12,
+        "precio": 1069.08,
+        "categoria": "Rebozadores",
+        "origen": "NATUZEN HARINAS +"
+      },
+      {
+        "codigo": "31",
+        "producto": "pan rallado x 450 gr.",
+        "uni_x_ca": 12,
+        "precio": 1740.38,
+        "categoria": "Rebozadores",
+        "origen": "NATUZEN HARINAS +"
+      }
+    ],
+    "NATUZEN REBOZADOR +": [
+      {
+        "codigo": "1641",
+        "producto": "rebozador de arroz env. naranja SIN AGREGADOS x 240 gr.(BOLSON X 5 U.)",
+        "uni_x_ca": 5,
+        "precio": 1168.54,
+        "categoria": "Rebozadores",
+        "origen": "NATUZEN REBOZADOR +"
+      },
+      {
+        "codigo": "30",
+        "producto": "rebozador arroz envase rojo x 240 gr. (BOLSON X 5 uni.)",
+        "uni_x_ca": 5,
+        "precio": 1230.70,
+        "categoria": "Rebozadores",
+        "origen": "NATUZEN REBOZADOR +"
+      }
+    ],
+    "NUESTROS SABORES": [
+      {
+        "codigo": "310",
+        "producto": "chips de batatitas x 80 gr.",
+        "uni_x_ca": 18,
+        "precio": 964.82,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "308",
+        "producto": "chips de mandioca (yukitas) x 80 gr.",
+        "uni_x_ca": 18,
+        "precio": 964.82,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "974",
+        "producto": "chips de remolachas y batatas x 80 gr.",
+        "uni_x_ca": 18,
+        "precio": 964.82,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1235",
+        "producto": "chips papas con pimienta x 80 gr.",
+        "uni_x_ca": 18,
+        "precio": 1082.19,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1234",
+        "producto": "chips zanahorias x 80 gr.",
+        "uni_x_ca": 18,
+        "precio": 964.82,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "903",
+        "producto": "papas rusticas c/sal marina x 80 gr.",
+        "uni_x_ca": 18,
+        "precio": 1082.19,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1548",
+        "producto": "pochoclo con caramelo x 95 gr.",
+        "uni_x_ca": 18,
+        "precio": 1168.41,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1652",
+        "producto": "pochoclo con manteca y sal x 38 gr.",
+        "uni_x_ca": 18,
+        "precio": 1168.41,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1264",
+        "producto": "tortillas chips con chia x 90 gr.",
+        "uni_x_ca": 18,
+        "precio": 964.82,
+        "categoria": "Snacks",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1533",
+        "producto": "tostaditas arroz x 50 gr. (babaganush)",
+        "uni_x_ca": 24,
+        "precio": 637.37,
+        "categoria": "Tostadas",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1534",
+        "producto": "tostaditas arroz x 50 gr. (cebolla y queso)",
+        "uni_x_ca": 24,
+        "precio": 637.37,
+        "categoria": "Tostadas",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1535",
+        "producto": "tostaditas arroz x 50 gr. (pan y manteca)",
+        "uni_x_ca": 24,
+        "precio": 637.37,
+        "categoria": "Tostadas",
+        "origen": "NUESTROS SABORES"
+      },
+      {
+        "codigo": "1532",
+        "producto": "tostaditas arroz x 50 gr. (tomate)",
+        "uni_x_ca": 24,
+        "precio": 637.37,
+        "categoria": "Tostadas",
+        "origen": "NUESTROS SABORES"
+      }
+    ],
+    "NUTREE": [
+      {
+        "codigo": "1557",
+        "producto": "hamburguesas batata y curry x 4 uni.",
+        "uni_x_ca": 24,
+        "precio": 3160.36,
+        "categoria": "Hamburguesas Veganas",
+        "origen": "NUTREE"
+      },
+      {
+        "codigo": "1553",
+        "producto": "hamburguesas brocoli x 4 uni.",
+        "uni_x_ca": 24,
+        "precio": 3160.36,
+        "categoria": "Hamburguesas Veganas",
+        "origen": "NUTREE"
+      },
+      {
+        "codigo": "1556",
+        "producto": "hamburguesas espinaca x 4 uni.",
+        "uni_x_ca": 24,
+        "precio": 3160.36,
+        "categoria": "Hamburguesas Veganas",
+        "origen": "NUTREE"
+      },
+      {
+        "codigo": "1555",
+        "producto": "hamburguesas lentejas x 4 uni.",
+        "uni_x_ca": 24,
+        "precio": 3160.36,
+        "categoria": "Hamburguesas Veganas",
+        "origen": "NUTREE"
+      },
+      {
+        "codigo": "1552",
+        "producto": "hamburguesas mix de hongos x 4 uni.",
+        "uni_x_ca": 24,
+        "precio": 3539.59,
+        "categoria": "Hamburguesas Veganas",
+        "origen": "NUTREE"
+      },
+      {
+        "codigo": "1554",
+        "producto": "hamburguesas porotos adzuki x 4 uni.",
+        "uni_x_ca": 24,
+        "precio": 3160.36,
+        "categoria": "Hamburguesas Veganas",
+        "origen": "NUTREE"
+      },
+      {
+        "codigo": "1550",
+        "producto": "milanesas espinaca x 2 uni.",
+        "uni_x_ca": 24,
+        "precio": 1562.29,
+        "categoria": "Milanesas Veganas",
+        "origen": "NUTREE"
+      },
+      {
+        "codigo": "1551",
+        "producto": "milanesas veggie clasica x 2 uni.",
+        "uni_x_ca": 24,
+        "precio": 1562.29,
+        "categoria": "Milanesas Veganas",
+        "origen": "NUTREE"
+      }
+    ],
+    "NUTRIVEG": [
+      {
+        "codigo": "1541",
+        "producto": "barra coco (frutos secos) x 12 uni.",
+        "uni_x_ca": 6,
+        "precio": 8399.07,
+        "categoria": "Barritas de Cereal",
+        "origen": "NUTRIVEG"
+      },
+      {
+        "codigo": "1542",
+        "producto": "barra energy (frutos secos-pasas de uva) x 12 uni.",
+        "uni_x_ca": 6,
+        "precio": 8399.07,
+        "categoria": "Barritas de Cereal",
+        "origen": "NUTRIVEG"
+      },
+      {
+        "codigo": "1543",
+        "producto": "barra fit (frutos secos-sal) x 12 uni.",
+        "uni_x_ca": 6,
+        "precio": 8399.08,
+        "categoria": "Barritas de Cereal",
+        "origen": "NUTRIVEG"
+      }
+    ],
+    "PADOAN +": [
+      {
+        "codigo": "577",
+        "producto": "harina arroz x 500 gr.",
+        "uni_x_ca": 20,
+        "precio": 1512.50,
+        "categoria": "Harinas y Almidones",
+        "origen": "PADOAN +"
+      },
+      {
+        "codigo": "579",
+        "producto": "premezcla p/hornear (pan y pizzas)",
+        "uni_x_ca": 20,
+        "precio": 1950.00,
+        "categoria": "Premezclas",
+        "origen": "PADOAN +"
+      },
+      {
+        "codigo": "579k",
+        "producto": "premezcla p/hornear pan y pizzas x 20 kg.",
+        "uni_x_ca": 1,
+        "precio": 60000.00,
+        "categoria": "Premezclas",
+        "origen": "PADOAN +"
+      },
+      {
+        "codigo": "580",
+        "producto": "premezcla pastas",
+        "uni_x_ca": 20,
+        "precio": 1925.00,
+        "categoria": "Premezclas",
+        "origen": "PADOAN +"
+      }
+    ],
+    "PALLUZZI +": [
+      {
+        "codigo": "1299",
+        "producto": "alfajorcitos de maicena x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 2232.00,
+        "categoria": "Alfajores",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1353",
+        "producto": "masas secas x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 3100.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1300",
+        "producto": "palmeritas x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1798.00,
+        "categoria": "Panificados",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1310",
+        "producto": "pan dulce c/chips x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 0.01,
+        "categoria": "Pan Dulce",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1311",
+        "producto": "pan dulce c/frutas secas x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 0.01,
+        "categoria": "Pan Dulce",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1309",
+        "producto": "pan dulce c/frutas x 500 gr.",
+        "uni_x_ca": 10,
+        "precio": 0.01,
+        "categoria": "Pan Dulce",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1293",
+        "producto": "pepas de dulce de batata x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1296",
+        "producto": "pepas de dulce de leche x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1294",
+        "producto": "pepas de dulce de membrillo x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1295",
+        "producto": "pepas de frutos rojos x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1860.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1301",
+        "producto": "polvorones marmolados x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1302",
+        "producto": "polvorones vainilla x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1304",
+        "producto": "scon con chip de chocolate x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Panificados",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1303",
+        "producto": "scon con nuez x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Panificados",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1305",
+        "producto": "scon con pasas de uva x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Panificados",
+        "origen": "PALLUZZI +"
+      },
+      {
+        "codigo": "1306",
+        "producto": "vainillas",
+        "uni_x_ca": 12,
+        "precio": 1736.00,
+        "categoria": "Galletitas",
+        "origen": "PALLUZZI +"
+      }
+    ],
+    "PATAGONIA GRAINS ½": [
+      {
+        "codigo": "565",
+        "producto": "anillitos frutales x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 849.95,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "1633",
+        "producto": "avena instantanea x 250 gr",
+        "uni_x_ca": 20,
+        "precio": 1233.18,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "559",
+        "producto": "bolitas chocolatadas x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 866.02,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "556",
+        "producto": "copos de maiz x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 784.30,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "557",
+        "producto": "copos de maiz azucarados x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 884.81,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "1292",
+        "producto": "granola c/almendras x 250 gr.",
+        "uni_x_ca": 40,
+        "precio": 2959.64,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "1352",
+        "producto": "granola x 500 gr.",
+        "uni_x_ca": 20,
+        "precio": 4503.85,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "564",
+        "producto": "hojuelas avellana x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 1065.06,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "563",
+        "producto": "hojuelas chocolate x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 1065.06,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "561",
+        "producto": "hojuelas frutilla x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 1065.06,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      },
+      {
+        "codigo": "562",
+        "producto": "hojuelas limon x 100 gr.",
+        "uni_x_ca": 24,
+        "precio": 1065.06,
+        "categoria": "Cereales",
+        "origen": "PATAGONIA GRAINS ½"
+      }
+    ],
+    "PEQUBE +": [
+      {
+        "codigo": "1586",
+        "producto": "ccokies de chocolate x 200 gr.",
+        "uni_x_ca": 8,
+        "precio": 5054.46,
+        "categoria": "Galletitas",
+        "origen": "PEQUBE +"
+      },
+      {
+        "codigo": "1583",
+        "producto": "pan de queso x 500 gr.",
+        "uni_x_ca": 8,
+        "precio": 5296.13,
+        "categoria": "Panificados",
+        "origen": "PEQUBE +"
+      },
+      {
+        "codigo": "1584",
+        "producto": "pizzeta pan de queso c/muzzarella x 2 u",
+        "uni_x_ca": 5,
+        "precio": 7884.80,
+        "categoria": "Panificados",
+        "origen": "PEQUBE +"
+      },
+      {
+        "codigo": "1585",
+        "producto": "pizzeta pan de queso caprese x 2 u",
+        "uni_x_ca": 5,
+        "precio": 9505.44,
+        "categoria": "Panificados",
+        "origen": "PEQUBE +"
+      },
+      {
+        "codigo": "1587",
+        "producto": "sandwich lomito y queso x 2 u",
+        "uni_x_ca": 8,
+        "precio": 8458.24,
+        "categoria": "Panificados",
+        "origen": "PEQUBE +"
+      }
+    ],
+    "PERGOLA +": [
+      {
+        "codigo": "129",
+        "producto": "aji molido x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 552.56,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "130",
+        "producto": "ajo polvo x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 379.08,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "131",
+        "producto": "albahaca x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 430.48,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "142",
+        "producto": "bicarbonato x 50 gr.",
+        "uni_x_ca": 25,
+        "precio": 514.00,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "132",
+        "producto": "canela molida x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 771.00,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "1099",
+        "producto": "comino molido x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 1079.40,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "997",
+        "producto": "condimento para arroz x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 591.10,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "982",
+        "producto": "condimento para pizza x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 456.18,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "1361",
+        "producto": "curcuma molida x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 751.72,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "1362",
+        "producto": "curry x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 873.80,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "165",
+        "producto": "goma xantica x 50 gr.(onza oro)",
+        "uni_x_ca": 25,
+        "precio": 2570.00,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "1206",
+        "producto": "harina de garbanzo x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2036.72,
+        "categoria": "Harinas y Almidones",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "1363",
+        "producto": "jengibre molido x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 738.89,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "133",
+        "producto": "nuez moscada molida x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 1336.40,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "134",
+        "producto": "orégano x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 436.91,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "138",
+        "producto": "perejil x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 584.66,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "135",
+        "producto": "pimentón extra x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 591.10,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "136",
+        "producto": "pimienta bca molida x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 1876.10,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "1100",
+        "producto": "pimienta negra en grano x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 1272.15,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "155",
+        "producto": "polvo hornear x 200 gr.",
+        "uni_x_ca": 10,
+        "precio": 2827.00,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "154",
+        "producto": "polvo hornear x 50 gr.",
+        "uni_x_ca": 25,
+        "precio": 835.25,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "137",
+        "producto": "provenzal x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 565.39,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "1364",
+        "producto": "romero x 25 gr.",
+        "uni_x_ca": 25,
+        "precio": 526.85,
+        "categoria": "Especias",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "139",
+        "producto": "azúcar impalpable x 250 gr.",
+        "uni_x_ca": 12,
+        "precio": 1092.25,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "141",
+        "producto": "azúcar negra x 250 gr.",
+        "uni_x_ca": 12,
+        "precio": 1278.58,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "143",
+        "producto": "cacao amargo x 100 gr.",
+        "uni_x_ca": 12,
+        "precio": 3373.12,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "146",
+        "producto": "coco rallado x 50 gr.",
+        "uni_x_ca": 25,
+        "precio": 1143.65,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "148",
+        "producto": "esencia azahar x 100 cc",
+        "uni_x_ca": 12,
+        "precio": 2428.65,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "149",
+        "producto": "esencia pan dulce x 100 cc",
+        "uni_x_ca": 12,
+        "precio": 2428.65,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "147",
+        "producto": "esencia vainilla x 100 cc",
+        "uni_x_ca": 12,
+        "precio": 950.90,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "152",
+        "producto": "gelatina s/sabor x 42 gr.",
+        "uni_x_ca": 25,
+        "precio": 1619.11,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "156",
+        "producto": "pasas uva s/semillas x 50 gr.",
+        "uni_x_ca": 25,
+        "precio": 674.61,
+        "categoria": "Frutos Secos",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "917",
+        "producto": "harina de lentejas x 500 gr.",
+        "uni_x_ca": 12,
+        "precio": 2158.80,
+        "categoria": "Harinas y Almidones",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      },
+      {
+        "codigo": "162",
+        "producto": "premezcla de harinas x 500 gr.(onza oro)",
+        "uni_x_ca": 25,
+        "precio": 1991.76,
+        "categoria": "Premezclas",
+        "origen": "PERGOLA +",
+        "nota": "DTO 5 % POR CAJAS CERRADAS"
+      }
+    ],
+    "PRAAT": [
+      {
+        "codigo": "1631",
+        "producto": "aventura chocolate / chocolate blanco x 85 gr.",
+        "uni_x_ca": 20,
+        "precio": 1209.13,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1630",
+        "producto": "aventura chocolate / chocolate x 85 gr.",
+        "uni_x_ca": 20,
+        "precio": 1209.13,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1629",
+        "producto": "aventura vainilla / chocolate x 85 gr.",
+        "uni_x_ca": 20,
+        "precio": 1209.13,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1623",
+        "producto": "galletitas chocolate y ddl x 125",
+        "uni_x_ca": 18,
+        "precio": 1227.23,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1625",
+        "producto": "galletitas leche condensada x 125 gr.",
+        "uni_x_ca": 18,
+        "precio": 1021.62,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1624",
+        "producto": "galletitas naranja y lima x 125 gr.",
+        "uni_x_ca": 18,
+        "precio": 1114.73,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1622",
+        "producto": "marineritas bañadas chcocolate x 125 gr.",
+        "uni_x_ca": 18,
+        "precio": 2206.18,
+        "categoria": "Galletitas Saladas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1619",
+        "producto": "marineritas clasicas x 125 gr.",
+        "uni_x_ca": 18,
+        "precio": 1095.33,
+        "categoria": "Galletitas Saladas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1621",
+        "producto": "marineritas con queso x 125 gr.",
+        "uni_x_ca": 18,
+        "precio": 1180.68,
+        "categoria": "Galletitas Saladas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1620",
+        "producto": "marineritas con semillas x 125 gr.",
+        "uni_x_ca": 18,
+        "precio": 1158.70,
+        "categoria": "Galletitas Saladas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1627",
+        "producto": "rellenas chocolate / avellana x 85 gr.",
+        "uni_x_ca": 20,
+        "precio": 826.34,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1626",
+        "producto": "rellenas chocolate / lima x 85 gr.",
+        "uni_x_ca": 20,
+        "precio": 826.34,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1628",
+        "producto": "rellenas vainilla / frambuesa x 85 gr.",
+        "uni_x_ca": 20,
+        "precio": 799.19,
+        "categoria": "Galletitas",
+        "origen": "PRAAT"
+      },
+      {
+        "codigo": "1642",
+        "producto": "tapitas de alfajor x 90 gr.",
+        "uni_x_ca": 18,
+        "precio": 1104.83,
+        "categoria": "Ingredientes de Repostería",
+        "origen": "PRAAT"
+      }
+    ],
+    "RISKY-DIT +": [
+      {
+        "codigo": "1110",
+        "producto": "mini´s clasicas",
+        "uni_x_ca": 20,
+        "precio": 786.16,
+        "categoria": "Snacks",
+        "origen": "RISKY-DIT +"
+      },
+      {
+        "codigo": "1111",
+        "producto": "mini´s con semillas",
+        "uni_x_ca": 20,
+        "precio": 786.16,
+        "categoria": "Snacks",
+        "origen": "RISKY-DIT +"
+      },
+      {
+        "codigo": "1127",
+        "producto": "snack de arroz jamon iberico",
+        "uni_x_ca": 24,
+        "precio": 655.96,
+        "categoria": "Snacks",
+        "origen": "RISKY-DIT +"
+      },
+      {
+        "codigo": "1128",
+        "producto": "snack de arroz queso",
+        "uni_x_ca": 24,
+        "precio": 655.96,
+        "categoria": "Snacks",
+        "origen": "RISKY-DIT +"
+      },
+      {
+        "codigo": "863",
+        "producto": "tostadas arroz sin sal",
+        "uni_x_ca": 24,
+        "precio": 1024.24,
+        "categoria": "Tostadas",
+        "origen": "RISKY-DIT +"
+      },
+      {
+        "codigo": "533",
+        "producto": "tostadas de arroz con sal",
+        "uni_x_ca": 24,
+        "precio": 1024.24,
+        "categoria": "Tostadas",
+        "origen": "RISKY-DIT +"
+      }
+    ],
+    "SANTA MARIA +": [
+      {
+        "codigo": "180",
+        "producto": "vainillas x doc.",
+        "uni_x_ca": 14,
+        "precio": 2729.33,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "183",
+        "producto": "alfajores x 6 u blancos",
+        "uni_x_ca": 22,
+        "precio": 5458.69,
+        "categoria": "Alfajores",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "182",
+        "producto": "alfajores x 6 u negros",
+        "uni_x_ca": 22,
+        "precio": 5458.69,
+        "categoria": "Alfajores",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "176",
+        "producto": "anisetos x 200 gr.",
+        "uni_x_ca": 14,
+        "precio": 2183.51,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "188",
+        "producto": "budin chocolate",
+        "uni_x_ca": 16,
+        "precio": 2456.43,
+        "categoria": "Budines",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "703",
+        "producto": "budin limon",
+        "uni_x_ca": 16,
+        "precio": 2456.43,
+        "categoria": "Budines",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "189",
+        "producto": "budin marmolado",
+        "uni_x_ca": 16,
+        "precio": 2456.43,
+        "categoria": "Budines",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "187",
+        "producto": "budin vainilla",
+        "uni_x_ca": 16,
+        "precio": 2456.43,
+        "categoria": "Budines",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "167",
+        "producto": "galletitas chocolate x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "170",
+        "producto": "galletitas limón x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "173",
+        "producto": "galletitas marmoladas x 200gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "174",
+        "producto": "galletitas mechaditas x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "172",
+        "producto": "galletitas pepas x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "177",
+        "producto": "galletitas saladitas x 100 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas Saladas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "171",
+        "producto": "galletitas scons x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "168",
+        "producto": "galletitas vainilla x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "169",
+        "producto": "galletittas coco x 200 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "175",
+        "producto": "galletittas cubanas x 150 gr.",
+        "uni_x_ca": 20,
+        "precio": 1501.14,
+        "categoria": "Galletitas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "1047",
+        "producto": "obleas bañadas c/chocolate",
+        "uni_x_ca": 15,
+        "precio": 8188.04,
+        "categoria": "Obleas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "1433",
+        "producto": "obleas sabor chocolate",
+        "uni_x_ca": 48,
+        "precio": 1364.67,
+        "categoria": "Obleas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "1432",
+        "producto": "obleas sabor coco x 90 gr.",
+        "uni_x_ca": 48,
+        "precio": 1364.67,
+        "categoria": "Obleas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "1106",
+        "producto": "obleas sabor frutilla x 90 gr.",
+        "uni_x_ca": 48,
+        "precio": 1364.67,
+        "categoria": "Obleas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "1056",
+        "producto": "obleas sabor limon x 90 gr.",
+        "uni_x_ca": 48,
+        "precio": 1364.67,
+        "categoria": "Obleas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "1431",
+        "producto": "obleas sabor vainilla x 90 gr.",
+        "uni_x_ca": 48,
+        "precio": 1364.67,
+        "categoria": "Obleas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "179",
+        "producto": "palitos queso x 200 gr.",
+        "uni_x_ca": 15,
+        "precio": 2183.50,
+        "categoria": "Snacks",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "186",
+        "producto": "premezcla deslactosada x kg.",
+        "uni_x_ca": 15,
+        "precio": 4639.92,
+        "categoria": "Premezclas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "185",
+        "producto": "premezcla universal x kg.",
+        "uni_x_ca": 15,
+        "precio": 4639.92,
+        "categoria": "Premezclas",
+        "origen": "SANTA MARIA +"
+      },
+      {
+        "codigo": "198",
+        "producto": "pan rallado x 500 gr.",
+        "uni_x_ca": 30,
+        "precio": 2729.37,
+        "categoria": "Rebozadores",
+        "origen": "SANTA MARIA +"
+      }
+    ],
+    "SANTA MARIA REFRIGERADO +": [
+      {
+        "codigo": "194",
+        "producto": "pan hamburguesas x 4 unid.",
+        "uni_x_ca": 16,
+        "precio": 2183.49,
+        "categoria": "Refrigerados",
+        "origen": "SANTA MARIA REFRIGERADO +"
+      },
+      {
+        "codigo": "196",
+        "producto": "panchos x 6 unid.",
+        "uni_x_ca": 18,
+        "precio": 2183.49,
+        "categoria": "Refrigerados",
+        "origen": "SANTA MARIA REFRIGERADO +"
+      },
+      {
+        "codigo": "195",
+        "producto": "pizzetas x 6 unid.",
+        "uni_x_ca": 20,
+        "precio": 2183.49,
+        "categoria": "Refrigerados",
+        "origen": "SANTA MARIA REFRIGERADO +"
+      }
+    ],
+    "SCHÄR": [
+      {
+        "codigo": "1165",
+        "producto": "crackers x 210 gr. (6x35gr) (sin lactosa)",
+        "uni_x_ca": 5,
+        "precio": 5294.27,
+        "categoria": "Galletitas Saladas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1167",
+        "producto": "grissini x 150 gr. (3x50gr) (sin lactosa)",
+        "uni_x_ca": 10,
+        "precio": 5015.93,
+        "categoria": "Panificados",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1170",
+        "producto": "maria x 125 gr. (3x42gr)",
+        "uni_x_ca": 6,
+        "precio": 4468.47,
+        "categoria": "Galletitas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1169",
+        "producto": "mini sorrisi x 100gr.",
+        "uni_x_ca": 12,
+        "precio": 4103.08,
+        "categoria": "Galletitas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1168",
+        "producto": "salinis x 60 gr. (sin lactosa)",
+        "uni_x_ca": 20,
+        "precio": 2494.41,
+        "categoria": "Snacks",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1166",
+        "producto": "salti x 175 gr. (sin lactosa)",
+        "uni_x_ca": 5,
+        "precio": 4962.85,
+        "categoria": "Galletitas Saladas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1180",
+        "producto": "torradas con trigo sarraceno x 87 gr.",
+        "uni_x_ca": 12,
+        "precio": 4072.51,
+        "categoria": "Tostadas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1172",
+        "producto": "wafers alla vaniglia x 125 gr.",
+        "uni_x_ca": 6,
+        "precio": 3620.01,
+        "categoria": "Galletitas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1610",
+        "producto": "budin de chocolate x 200 gr.",
+        "uni_x_ca": 6,
+        "precio": 4072.51,
+        "categoria": "Budines",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1600",
+        "producto": "budin de naranja x 200 gr.",
+        "uni_x_ca": 6,
+        "precio": 4072.51,
+        "categoria": "Budines",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1506",
+        "producto": "choco chip cookies x 200gr. (NUEVO)",
+        "uni_x_ca": 12,
+        "precio": 5896.44,
+        "categoria": "Galletitas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1435",
+        "producto": "corn flakes x 250 gr.",
+        "uni_x_ca": 6,
+        "precio": 4298.77,
+        "categoria": "Cereales",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1176",
+        "producto": "mix mezcla premiun x 500 gr.",
+        "uni_x_ca": 7,
+        "precio": 4837.21,
+        "categoria": "Premezclas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1603",
+        "producto": "oblea rellena bañada x 105 gr. (3 uni.x 35g)",
+        "uni_x_ca": 12,
+        "precio": 4015.95,
+        "categoria": "Obleas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1505",
+        "producto": "pan de hamburguesa x 130gr. (NUEVO)",
+        "uni_x_ca": 8,
+        "precio": 2891.52,
+        "categoria": "Panificados",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1444",
+        "producto": "pan frances x 130 gr.",
+        "uni_x_ca": 10,
+        "precio": 2682.24,
+        "categoria": "Panificados",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1469",
+        "producto": "pan quinoa & lino x 200 gr.",
+        "uni_x_ca": 8,
+        "precio": 3477.50,
+        "categoria": "Panificados",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1602",
+        "producto": "papas fritas BBQ x 170 gr. (curvies)",
+        "uni_x_ca": 10,
+        "precio": 6674.40,
+        "categoria": "Snacks",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1601",
+        "producto": "papas fritas original x 170 gr. (curvies)",
+        "uni_x_ca": 10,
+        "precio": 6674.40,
+        "categoria": "Snacks",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1436",
+        "producto": "pevet x 5 unid.",
+        "uni_x_ca": 6,
+        "precio": 3970.71,
+        "categoria": "Panificados",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1163",
+        "producto": "pan blanco x 200 gr.",
+        "uni_x_ca": 8,
+        "precio": 2993.33,
+        "categoria": "Panificados",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1164",
+        "producto": "pan rustico x 225 gr.",
+        "uni_x_ca": 8,
+        "precio": 3209.39,
+        "categoria": "Panificados",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1178",
+        "producto": "fideos fusilli x 250 gr.",
+        "uni_x_ca": 10,
+        "precio": 3868.89,
+        "categoria": "Pastas Secas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1179",
+        "producto": "fideos penne x 250 gr.",
+        "uni_x_ca": 10,
+        "precio": 3868.90,
+        "categoria": "Pastas Secas",
+        "origen": "SCHÄR"
+      },
+      {
+        "codigo": "1177",
+        "producto": "fideos spaghetti x 250 gr.",
+        "uni_x_ca": 10,
+        "precio": 3868.89,
+        "categoria": "Pastas Secas",
+        "origen": "SCHÄR"
+      }
+    ],
+    "SEMILLAS GAUCHAS +": [
+      {
+        "codigo": "1468",
+        "producto": "harina integral de trigo sarraceno x 1 kg.",
+        "uni_x_ca": 12,
+        "precio": 3494.40,
+        "categoria": "Harinas y Almidones",
+        "origen": "SEMILLAS GAUCHAS +"
+      },
+      {
+        "codigo": "957",
+        "producto": "harina integral de trigo sarraceno X 500 gr.",
+        "uni_x_ca": 24,
+        "precio": 1906.05,
+        "categoria": "Harinas y Almidones",
+        "origen": "SEMILLAS GAUCHAS +"
+      },
+      {
+        "codigo": "1291",
+        "producto": "trigo sarraceno pelado x 500 gr.",
+        "uni_x_ca": 24,
+        "precio": 2200.80,
+        "categoria": "Granos y Semillas",
+        "origen": "SEMILLAS GAUCHAS +"
+      }
+    ],
+    "SILVINA RUMI +": [
+      {
+        "codigo": "1560",
+        "producto": "pizza 100% vegetal 330 gr.",
+        "uni_x_ca": 1,
+        "precio": 4907.70,
+        "categoria": "Pizzas",
+        "origen": "SILVINA RUMI +"
+      },
+      {
+        "codigo": "994",
+        "producto": "pizza cebolla y mozzarella 340 gr.",
+        "uni_x_ca": 1,
+        "precio": 5645.70,
+        "categoria": "Pizzas",
+        "origen": "SILVINA RUMI +"
+      },
+      {
+        "codigo": "426",
+        "producto": "pizza de mozzarella 330 gr.",
+        "uni_x_ca": 1,
+        "precio": 4907.70,
+        "categoria": "Pizzas",
+        "origen": "SILVINA RUMI +"
+      },
+      {
+        "codigo": "1500",
+        "producto": "pizza de provolone 330 gr.",
+        "uni_x_ca": 1,
+        "precio": 7736.70,
+        "categoria": "Pizzas",
+        "origen": "SILVINA RUMI +"
+      },
+      {
+        "codigo": "995",
+        "producto": "pizza jamon y mozzarella 380 gr.",
+        "uni_x_ca": 1,
+        "precio": 6875.70,
+        "categoria": "Pizzas",
+        "origen": "SILVINA RUMI +"
+      },
+      {
+        "codigo": "996",
+        "producto": "pizza mix de quesos 360 gr.",
+        "uni_x_ca": 1,
+        "precio": 6875.70,
+        "categoria": "Pizzas",
+        "origen": "SILVINA RUMI +"
+      },
+      {
+        "codigo": "1561",
+        "producto": "pizza mozzarella y pepperoni 350 gr.",
+        "uni_x_ca": 1,
+        "precio": 7736.70,
+        "categoria": "Pizzas",
+        "origen": "SILVINA RUMI +"
+      },
+      {
+        "codigo": "1456",
+        "producto": "pizzetas x 4 uni.",
+        "uni_x_ca": 1,
+        "precio": 2939.70,
+        "categoria": "Pizzetas",
+        "origen": "SILVINA RUMI +"
+      }
+    ],
+    "SMAMS": [
+      {
+        "codigo": "1204",
+        "producto": "budin vainilla x 200 gr. (SIN AZUCAR AGREGADA)",
+        "uni_x_ca": 12,
+        "precio": 3291.74,
+        "categoria": "Budines",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1232",
+        "producto": "chips x 150 gr. (SIN AZUCAR AGREGADA)",
+        "uni_x_ca": 16,
+        "precio": 2119.67,
+        "categoria": "Galletitas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1261",
+        "producto": "galletita vainilla colegial x 150 gr.",
+        "uni_x_ca": 18,
+        "precio": 1090.69,
+        "categoria": "Galletitas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1260",
+        "producto": "pepas x 150 gr.",
+        "uni_x_ca": 18,
+        "precio": 1298.68,
+        "categoria": "Galletitas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1233",
+        "producto": "polvorones vainilla x 115 gr. (SIN AZUCAR AGREGADA)",
+        "uni_x_ca": 18,
+        "precio": 1881.00,
+        "categoria": "Galletitas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1457",
+        "producto": "alfajor chocolate x 12 uni. (en display)",
+        "uni_x_ca": 5,
+        "precio": 8658.37,
+        "categoria": "Alfajores",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1458",
+        "producto": "alfajor de chocolate x 20 uni. (sin display)",
+        "uni_x_ca": 1,
+        "precio": 12732.82,
+        "categoria": "Alfajores",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1647",
+        "producto": "alfajor glorioso doble ddl x 20 un. (sin display)",
+        "uni_x_ca": 1,
+        "precio": 22650.44,
+        "categoria": "Alfajores",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1460",
+        "producto": "alfajor triple x 12 unid. (en display)",
+        "uni_x_ca": 4,
+        "precio": 12223.50,
+        "categoria": "Alfajores",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1639",
+        "producto": "alfajor triple x 20 unid. (sin display)",
+        "uni_x_ca": 1,
+        "precio": 20336.15,
+        "categoria": "Alfajores",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "86",
+        "producto": "biscuit x 120 gr.",
+        "uni_x_ca": 20,
+        "precio": 1796.25,
+        "categoria": "Galletitas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "83",
+        "producto": "bizcochos azucarado x 150 gr.",
+        "uni_x_ca": 16,
+        "precio": 1198.75,
+        "categoria": "Bizcochos",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1478",
+        "producto": "bizcochos salados x 150 gr.",
+        "uni_x_ca": 18,
+        "precio": 1198.73,
+        "categoria": "Bizcochos",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1198",
+        "producto": "budin limon x 250 gr.",
+        "uni_x_ca": 12,
+        "precio": 2925.50,
+        "categoria": "Budines",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1268",
+        "producto": "budin marmolado x 200 gr. (SIN AZUCAR AGREGADA)",
+        "uni_x_ca": 12,
+        "precio": 3291.74,
+        "categoria": "Budines",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "84",
+        "producto": "budin marmolado x 250 gr.",
+        "uni_x_ca": 12,
+        "precio": 2925.50,
+        "categoria": "Budines",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "95",
+        "producto": "budin vainilla c/chips x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 2925.50,
+        "categoria": "Budines",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "85",
+        "producto": "budin vainilla x 250 gr.",
+        "uni_x_ca": 12,
+        "precio": 2925.50,
+        "categoria": "Budines",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1368",
+        "producto": "cereal anillitos con miel x 150 gr.",
+        "uni_x_ca": 16,
+        "precio": 1225.24,
+        "categoria": "Cereales",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1367",
+        "producto": "cereal anillitos de fruta x 150 gr.",
+        "uni_x_ca": 16,
+        "precio": 1225.24,
+        "categoria": "Cereales",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1369",
+        "producto": "cereal bolitas de chocolate x 150 gr.",
+        "uni_x_ca": 16,
+        "precio": 1372.27,
+        "categoria": "Cereales",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "81",
+        "producto": "chips chocolate x 150 gr.",
+        "uni_x_ca": 18,
+        "precio": 1656.60,
+        "categoria": "Galletitas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1066",
+        "producto": "chocoSmams x 200 gr.",
+        "uni_x_ca": 16,
+        "precio": 1917.40,
+        "categoria": "Chocolates",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "96",
+        "producto": "crackers c/semillas x 150 gr.",
+        "uni_x_ca": 18,
+        "precio": 1641.79,
+        "categoria": "Galletitas Saladas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "97",
+        "producto": "crackers clasicas x 150 gr.",
+        "uni_x_ca": 18,
+        "precio": 1641.79,
+        "categoria": "Galletitas Saladas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "98",
+        "producto": "crackers sin sal x 150 gr.",
+        "uni_x_ca": 18,
+        "precio": 1641.79,
+        "categoria": "Galletitas Saladas",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1371",
+        "producto": "harina de arroz x 500 gr.",
+        "uni_x_ca": 20,
+        "precio": 1492.64,
+        "categoria": "Harinas y Almidones",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1287",
+        "producto": "pan de molde x 200 gr.",
+        "uni_x_ca": 12,
+        "precio": 2528.64,
+        "categoria": "Panificados",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "89",
+        "producto": "pan dulce c/chips x 500 gr.",
+        "uni_x_ca": 6,
+        "precio": 4469.00,
+        "categoria": "Pan Dulce",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "90",
+        "producto": "pan dulce c/frutas x 500 gr.",
+        "uni_x_ca": 6,
+        "precio": 4469.00,
+        "categoria": "Pan Dulce",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "89L",
+        "producto": "pan dulce en LATA c/chips x 750 gr.(LIMITADA)",
+        "uni_x_ca": 4,
+        "precio": 0.00,
+        "categoria": "Pan Dulce",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "90L",
+        "producto": "pan dulce en LATA con frutas x 750 gr. (LIMITADA)",
+        "uni_x_ca": 4,
+        "precio": 0.00,
+        "categoria": "Pan Dulce",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1521",
+        "producto": "pan molde con semillas",
+        "uni_x_ca": 12,
+        "precio": 2778.75,
+        "categoria": "Panificados",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1370",
+        "producto": "pan rallado x 350 gr.",
+        "uni_x_ca": 12,
+        "precio": 1648.12,
+        "categoria": "Rebozadores",
+        "origen": "SMAMS"
+      },
+      {
+        "codigo": "1443",
+        "producto": "pepas veggie",
+        "uni_x_ca": 18,
+        "precio": 1267.00,
+        "categoria": "Galletitas Veganas",
+        "origen": "SMAMS"
+      },
+      {
+      "codigo": "1440",
+      "producto": "polvoron coco veggie"
+    }
+  ],
+  "productos_adicionales": [
+    {
+      "codigo": "1440",
+      "nombre": "polvoron coco veggie",
+      "unidades_por_caja": 18,
+      "precio": 1040.20
+    },
+    {
+      "codigo": "1442",
+      "nombre": "polvoron limon veggie",
+      "unidades_por_caja": 18,
+      "precio": 1040.20
+    },
+    {
+      "codigo": "1441",
+      "nombre": "polvoron vainilla veggie",
+      "unidades_por_caja": 18,
+      "precio": 1040.20
+    },
+    {
+      "codigo": "80",
+      "nombre": "rellenas chocolate x 105 gr.",
+      "unidades_por_caja": 18,
+      "precio": 1063.33
+    },
+    {
+      "codigo": "94",
+      "nombre": "rellenas frutilla x 105 gr.",
+      "unidades_por_caja": 18,
+      "precio": 1063.33
+    },
+    {
+      "codigo": "1449",
+      "nombre": "rellenas limon x 105 gr.",
+      "unidades_por_caja": 18,
+      "precio": 1063.33
+    },
+    {
+      "codigo": "1448",
+      "nombre": "rellenas mouse chocolate 105 gr.",
+      "unidades_por_caja": 18,
+      "precio": 1063.33
+    },
+    {
+      "codigo": "79",
+      "nombre": "rellenas vainilla x 105 gr.",
+      "unidades_por_caja": 18,
+      "precio": 1063.29
+    },
+    {
+      "codigo": "1351",
+      "nombre": "snack jamon x 80 gr.",
+      "unidades_por_caja": 24,
+      "precio": 677.12
+    },
+    {
+      "codigo": "1349",
+      "nombre": "snack pizza x 80 gr.",
+      "unidades_por_caja": 24,
+      "precio": 573.98
+    },
+    {
+      "codigo": "1350",
+      "nombre": "snack queso x 80 gr.",
+      "unidades_por_caja": 24,
+      "precio": 677.12
+    },
+    {
+      "codigo": "220",
+      "nombre": "con espinaca x 300 gr.",
+      "unidades_por_caja": 40,
+      "precio": 1838.72
+    },
+    {
+      "codigo": "218",
+      "nombre": "con maíz x 300 gr.",
+      "unidades_por_caja": 40,
+      "precio": 1838.72
+    },
+    {
+      "codigo": "219",
+      "nombre": "con morrón x 300 gr.",
+      "unidades_por_caja": 40,
+      "precio": 1838.72
+    },
+    {
+      "codigo": "221",
+      "nombre": "integral x 300 gr.",
+      "unidades_por_caja": 40,
+      "precio": 1838.72
+    },
+    {
+      "codigo": "217",
+      "nombre": "tradicional fino x 300 gr.",
+      "unidades_por_caja": 40,
+      "precio": 1838.72
+    },
+    {
+      "codigo": "216",
+      "nombre": "tradicional x 300 gr.",
+      "unidades_por_caja": 40,
+      "precio": 1838.72
+    },
+    {
+      "codigo": "1374",
+      "nombre": "tofu x 450 gr.",
+      "unidades_por_caja": 1,
+      "precio": 2404.48
+    },
+    {
+      "codigo": "1637",
+      "nombre": "bebida hidratante sabor frutilla x 630ml",
+      "unidades_por_caja": 6,
+      "precio": 2125.00
+    },
+    {
+      "codigo": "1636",
+      "nombre": "bebida hidratante sabor frutos rojos x 630ml",
+      "unidades_por_caja": 6,
+      "precio": 2125.00
+    },
+    {
+      "codigo": "1635",
+      "nombre": "bebida hidratante sabor manzana x 630ml",
+      "unidades_por_caja": 6,
+      "precio": 2125.00
+    },
+    {
+      "codigo": "1270",
+      "nombre": "bebida de almendra original s/azucar x 1 lts",
+      "unidades_por_caja": 8,
+      "precio": 3235.44
+    },
+    {
+      "codigo": "1275",
+      "nombre": "bebida de almendra y chocolate x 1 lts",
+      "unidades_por_caja": 8,
+      "precio": 3235.44
+    },
+    {
+      "codigo": "1272",
+      "nombre": "bebida de almendra y vainilla c/azucar mascabo x 1 lts",
+      "unidades_por_caja": 8,
+      "precio": 3235.44
+    },
+    {
+      "codigo": "1274",
+      "nombre": "bebida de almendra y vainilla s/azucar x 1 lts",
+      "unidades_por_caja": 8,
+      "precio": 3235.44
+    },
+    {
+      "codigo": "1465",
+      "nombre": "bebida de almendras original c/azucar mascabo x 1 lts",
+      "unidades_por_caja": 8,
+      "precio": 3235.44
+    },
+    {
+      "codigo": "1276",
+      "nombre": "bebida de almendras y coco x 1 lts",
+      "unidades_por_caja": 8,
+      "precio": 3235.44
+    },
+    {
+      "codigo": "1634",
+      "nombre": "leche almendras original x 500 ml",
+      "unidades_por_caja": 12,
+      "precio": 1752.53
+    },
+    {
+      "codigo": "749",
+      "nombre": "chalitas clasicas x 100 gr.",
+      "unidades_por_caja": 14,
+      "precio": 1021.80
+    },
+    {
+      "codigo": "940",
+      "nombre": "chalitas jamon x 100 gr.",
+      "unidades_por_caja": 14,
+      "precio": 1111.50
+    },
+    {
+      "codigo": "941",
+      "nombre": "chalitas parmesano x 100 gr.",
+      "unidades_por_caja": 14,
+      "precio": 1111.50
+    },
+    {
+      "codigo": "569",
+      "nombre": "chalitas semillas x 100 gr.",
+      "unidades_por_caja": 14,
+      "precio": 1111.50
+    },
+    {
+      "codigo": "1256",
+      "nombre": "veggie snacks garbanzo-hierbas x 50 gr.",
+      "unidades_por_caja": 30,
+      "precio": 617.50
+    },
+    {
+      "codigo": "1255",
+      "nombre": "veggie snacks remolacha-tomate-oliva x 50 gr.",
+      "unidades_por_caja": 30,
+      "precio": 703.30
+    },
+    {
+      "codigo": "1645",
+      "nombre": "mate cocido DON OMAR x 25 un.",
+      "unidades_por_caja": 18,
+      "precio": 0.00
+    },
+    {
+      "codigo": "1644",
+      "nombre": "yerba DON OMAR x 500 gr.",
+      "unidades_por_caja": 10,
+      "precio": 1481.35
+    },
+    {
+      "codigo": "1648",
+      "nombre": "yerba SALAM x 500 gr.",
+      "unidades_por_caja": 10,
+      "precio": 2056.96
+    },
+    {
+      "codigo": "1646",
+      "nombre": "yerba SECADERO x 500 gr.",
+      "unidades_por_caja": 10,
+      "precio": 1580.11
+    },
+    {
+      "codigo": "1565",
+      "nombre": "alfajores con ddl x 6 uni.",
+      "unidades_por_caja": 15,
+      "precio": 3781.26
+    },
+    {
+      "codigo": "1567",
+      "nombre": "alfajores con membrillo x 6 uni.",
+      "unidades_por_caja": 15,
+      "precio": 3781.26
+    },
+    {
+      "codigo": "1566",
+      "nombre": "alfajores negro x 6 uni.",
+      "unidades_por_caja": 15,
+      "precio": 3781.26
+    },
+    {
+      "codigo": "1568",
+      "nombre": "alfajores surtidos x 6 uni.",
+      "unidades_por_caja": 15,
+      "precio": 3781.26
+    },
+    {
+      "codigo": "1571",
+      "nombre": "cookie con miel x 150 gr.",
+      "unidades_por_caja": 30,
+      "precio": 1754.51
+    },
+    {
+      "codigo": "1572",
+      "nombre": "cookie de queso x 150 gr.",
+      "unidades_por_caja": 30,
+      "precio": 1754.51
+    },
+    {
+      "codigo": "1573",
+      "nombre": "cookie sabor chocolate x 150 gr.",
+      "unidades_por_caja": 30,
+      "precio": 1754.51
+    },
+    {
+      "codigo": "1570",
+      "nombre": "cookie sabor naranja x 150 gr.",
+      "unidades_por_caja": 30,
+      "precio": 1754.51
+    },
+    {
+      "codigo": "1569",
+      "nombre": "cookie sabor vainilla x 150 gr.",
+      "unidades_por_caja": 30,
+      "precio": 1754.51
+    },
+    {
+      "codigo": "1575",
+      "nombre": "fideos tirabuzon al huevo x 250 gr.",
+      "unidades_por_caja": 20,
+      "precio": 1936.01
+    },
+    {
+      "codigo": "1577",
+      "nombre": "fideos tirabuzon arvejas x 250 gr.",
+      "unidades_por_caja": 20,
+      "precio": 1936.01
+    },
+    {
+      "codigo": "1576",
+      "nombre": "fideos tirabuzon grabanzo x 250 gr.",
+      "unidades_por_caja": 20,
+      "precio": 1936.01
+    },
+    {
+      "codigo": "1578",
+      "nombre": "fideos tirabuzon lenteja x 250 gr.",
+      "unidades_por_caja": 20,
+      "precio": 1936.01
+    },
+    {
+      "codigo": "1574",
+      "nombre": "pepitas x 150 gr.",
+      "unidades_por_caja": 30,
+      "precio": 1754.51
+    }
+  ]
+  }
+}
+
+  
