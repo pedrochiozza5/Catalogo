@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "1086",
+    "nombre": "PM PIZZA",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "414",
+    "nombre": "SALADITAS CAJA",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1087",
+    "nombre": "PM  PAN",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "415",
+    "nombre": "TOSTADAS CAJA",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1088",
+    "nombre": "REBOZADOR",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "416",
+    "nombre": "PEPAS CHOCOLAT  CAJA",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1089",
+    "nombre": "PM BROWNIE",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "417",
+    "nombre": "CHOCOMIEL CAJA",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1090",
+    "nombre": "PM VOLCAN CHOCOLATE",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "740",
+    "nombre": "GALLETITAS VAINILLA",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1091",
+    "nombre": "PM CREPES",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "419",
+    "nombre": "POLVO P/HORNEAR",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1092",
+    "nombre": "PURE",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "418",
+    "nombre": "PM UNIVERSAL",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1093",
+    "nombre": "PM MUFFINS VAINILLA",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "422",
+    "nombre": "HARINA ARROZ",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1094",
+    "nombre": "PM MUFFINS CHOCOLAT",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "423",
+    "nombre": "ALMIDON MAIZ",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1492",
+    "nombre": "CRUNCHIES AVELLANA",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "424",
+    "nombre": "MANDIOCA",
+    "categoria": "DIMAX",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1493",
+    "nombre": "CRUNCHIES LIMON",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1494",
+    "nombre": "CRUNCHIES CHOCOLATE",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "402",
+    "nombre": "QUESITAS X 100  GR.",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1495",
+    "nombre": "CRUNCHIES MANI",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "401",
+    "nombre": "BISCUIT X 40 GR.",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1496",
+    "nombre": "CRUNCHIES FRUTILLA",
+    "categoria": "123LISTO!",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "398",
+    "nombre": "PEPAS BATATA X 100 GR.",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "397",
+    "nombre": "PEPAS MEMBR X 100 GR.",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "399",
+    "nombre": "PEPAS C/CHIPS X 90 GR.",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "904",
+    "nombre": "CHIPS COLEGIAL X 54 G",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "389",
+    "nombre": "CUADRADO FROLA MEM",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "911",
+    "nombre": "ANILLOS BAÑADOS X 54",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "390",
+    "nombre": "CUADRADO FROLA BAT",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "498",
+    "nombre": "DORADITAS",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "391",
+    "nombre": "CUADRADO COCO",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "502",
+    "nombre": "COCO RALLADO X 250",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "408",
+    "nombre": "ALFAJOR MEMBRILLO",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "503",
+    "nombre": "AZUCAR IMPA X 500",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "406",
+    "nombre": "ALFAJOR MAICENA",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "505",
+    "nombre": "HAR ARROZ INTEGRAL",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "859",
+    "nombre": "ALFAJOR REGIO. DULCE",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "702",
+    "nombre": "ALMIDON MAIZ X 500",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "378",
+    "nombre": "PAN SIN LECHE",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "739",
+    "nombre": "MANDIOCA X 500",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "379",
+    "nombre": "PAN MOLDE",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "701",
+    "nombre": "PREMEZCLA X 500",
+    "categoria": "ABUCEL+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1332",
+    "nombre": "PAN INTEGRAL",
+    "categoria": "DIMAX (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "228",
+    "nombre": "EMP. CAPRES X 6",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "440",
+    "nombre": "REBOZADOR",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "227",
+    "nombre": "EMP.POLLO X 6",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "441",
+    "nombre": "ANILLOS X 500",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "226",
+    "nombre": "EMP. J Y Q X 6",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "488",
+    "nombre": "ANILLOS BAÑADOS",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "912",
+    "nombre": "EMP. VERDURA X 6",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "443",
+    "nombre": "CONITOS X 6",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "231",
+    "nombre": "EMP. CAPRES X 3",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "442",
+    "nombre": "ALFAJORES X 6",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "230",
+    "nombre": "EMP. POLLO X 3",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "481",
+    "nombre": "ALFAJORES BLIST X 18",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "229",
+    "nombre": "EMP. J Y Q X 3",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "497",
+    "nombre": "TAPITAS BAÑADAS",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "948",
+    "nombre": "EMP. VERDURA X 3",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "492",
+    "nombre": "GALLETITAS CHOCO",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "248",
+    "nombre": "PIZZETAS X 10 TOMATE",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "493",
+    "nombre": "GALLETITAS GOTITAS",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "681",
+    "nombre": "PIZZETAS X 10 CEBOLLA",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "494",
+    "nombre": "GALLETITAS LIMON",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "252",
+    "nombre": "RAVIOLES RICOTA",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "495",
+    "nombre": "GALLETITAS QUESO",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "253",
+    "nombre": "RAVIOLES RICOTA Y VER",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "496",
+    "nombre": "GALLETITAS SALADAS",
+    "categoria": "AGLU+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "255",
+    "nombre": "SORREN V Y R",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "254",
+    "nombre": "SORREN J Y Q",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "68",
+    "nombre": "CRACKINES",
+    "categoria": "BAIRES",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "265",
+    "nombre": "TARTA J Y Q",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "268",
+    "nombre": "TARTA VERDURA",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "124",
+    "nombre": "CODITOS",
+    "categoria": "BLUE PATNA",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "266",
+    "nombre": "TARTA CAPRESSE",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "125",
+    "nombre": "MOSTACHOL",
+    "categoria": "BLUE PATNA",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "267",
+    "nombre": "TARTA POLLO",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "126",
+    "nombre": "SPAGHETTI",
+    "categoria": "BLUE PATNA",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "690",
+    "nombre": "AGRIDULCE",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "127",
+    "nombre": "TIRABUZON",
+    "categoria": "BLUE PATNA",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "269",
+    "nombre": "TOSTADAS",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "128",
+    "nombre": "DEDALITOS",
+    "categoria": "BLUE PATNA",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "679",
+    "nombre": "GRISINES",
+    "categoria": "DOMINIKA + (por pedido)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "480",
+    "nombre": "FETUCCINI",
+    "categoria": "BLUE PATNA",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "538",
+    "nombre": "CASERITOS AL HUEVO",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "270",
+    "nombre": "CALDOS CARNE",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "539",
+    "nombre": "CASERITOS  ESPINACA",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "272",
+    "nombre": "CALDO  GALLINA",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "540",
+    "nombre": "CASERITOS MORRON",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "274",
+    "nombre": "CALDO VERDURA",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "545",
+    "nombre": "CODITOS",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "276",
+    "nombre": "CALDO VERD SIN SAL",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "546",
+    "nombre": "PENNE RIGATTI",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "278",
+    "nombre": "SOPA ESPARRAGOS",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "547",
+    "nombre": "FUSILLI",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "279",
+    "nombre": "SOPA ZAPALLO",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "548",
+    "nombre": "FUSILLI MULTIVEGETAL",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "280",
+    "nombre": "SOPA VERDURA",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "549",
+    "nombre": "ÑOQUIS",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "281",
+    "nombre": "SOPA ARVEJA",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1447",
+    "nombre": "CASERITOS MULTIVEGETAL",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "282",
+    "nombre": "SOPA CHOCLO",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "551",
+    "nombre": "RIGATONI",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "283",
+    "nombre": "SOPA HONGO",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "552",
+    "nombre": "AVIONCITOS",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "284",
+    "nombre": "SOPA QUESO",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "553",
+    "nombre": "CABELLO DE ANGEL",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "285",
+    "nombre": "SOPA CEBOLLA",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "554",
+    "nombre": "DEDALITOS",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "286",
+    "nombre": "SOPA ESPINACA",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "555",
+    "nombre": "MUNICIONES",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "287",
+    "nombre": "SOPA POLLO",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1044",
+    "nombre": "MOÑOS AL HUEVO",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1491",
+    "nombre": "GOMA XANTICA Y GUAR",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1045",
+    "nombre": "MOÑOS MULTIVEGETAL",
+    "categoria": "DOÑA ROSA+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1530",
+    "nombre": "NOODLES CUP HONGO",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1529",
+    "nombre": "NOODLES CUP VERDURA",
+    "categoria": "BONWERT+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1254",
+    "nombre": "RAVIOLES JAMON Y QUE.",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "208",
+    "nombre": "RAVIOLES POLLO Y VERD.",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1541",
+    "nombre": "BARRA COCO",
+    "categoria": "NUTRIVEG",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "209",
+    "nombre": "ÑOQUIS",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1542",
+    "nombre": "BARRA ENERGY",
+    "categoria": "NUTRIVEG",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "210",
+    "nombre": "EMP. DE CARNE x 6",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1543",
+    "nombre": "BARRA FIT",
+    "categoria": "NUTRIVEG",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "211",
+    "nombre": "EMP. DE J Y Q x 6",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "212",
+    "nombre": "BOCADITOS",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1557",
+    "nombre": "HAMBUR. BATATA Y CURRY",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "213",
+    "nombre": "PIZZAS",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1553",
+    "nombre": "HAMBUR. BROCOLI",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "214",
+    "nombre": "FIGACITAS",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1556",
+    "nombre": "HAMBUR. ESPINACA",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1249",
+    "nombre": "CHIPA X 12 UNID.",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1555",
+    "nombre": "HAMBUR. LENTEJAS",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1538",
+    "nombre": "TENDERS DE POLLO",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1552",
+    "nombre": "HAMBUR. MIX HONGOS",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1588",
+    "nombre": "BOCADITOS VEGGIE SABOR POLLO",
+    "categoria": "IL SOLE+",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1554",
+    "nombre": "HAMBUR. POROTOS ADZUKI",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1550",
+    "nombre": "MILANESAS ESPINACA",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1559",
+    "nombre": "MILANESAS VEGGIE CLASICA",
+    "categoria": "NUTREE",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "485",
+    "nombre": "DONINAS 5 SEMILLAS",
+    "categoria": "IULICROC",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "486",
+    "nombre": "DONINAS CHIPS CHOCO",
+    "categoria": "IULICROC",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "839",
+    "nombre": "DONINAS FRUTOS ROJOS",
+    "categoria": "IULICROC",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "438",
+    "nombre": "ALFAJOR NEGRO SIN/AZ",
+    "categoria": "CHOCOLEIT(cajas x 12 un.)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "991",
+    "nombre": "DONINAS FRUTOS DEL BOSQ",
+    "categoria": "IULICROC",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "439",
+    "nombre": "ALFAJOR BLANCO SIN/AZ",
+    "categoria": "CHOCOLEIT(cajas x 12 un.)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1438",
+    "nombre": "DONINAS CHOCO Y MANI",
+    "categoria": "IULICROC",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1269",
+    "nombre": "PURO CACAO AMARGO",
+    "categoria": "CHOCOLEIT(cajas x 12 un.)",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1439",
+    "nombre": "DONINAS COCO Y MANI",
+    "categoria": "IULICROC",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "1331",
+    "nombre": "DONINAS S/AZUCAR LIM.",
+    "categoria": "IULICROC",
+    "origen": "PEDIDO HOJA 1"
+  },
+  {
+    "id": "336",
+    "nombre": "CUADRADITO FROLITA",
+    "categoria": "LA DELFINA +(por pedido)",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "132",
+    "nombre": "CANELA MOLIDA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "337",
+    "nombre": "CUADRADO COCO",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "139",
+    "nombre": "AZUCAR IMPALPABLE",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "338",
+    "nombre": "PORCION LEMON",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "141",
+    "nombre": "AZUCAR  NEGRA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "339",
+    "nombre": "PORCION BROWNIE",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "142",
+    "nombre": "BICARBO DE SODIO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "340",
+    "nombre": "PORCION TIRAMISU",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "143",
+    "nombre": "CACAO AMARGO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "354",
+    "nombre": "TARTAS J Y Q",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "144",
+    "nombre": "POLVO  CHOCOLATADA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "355",
+    "nombre": "TARTA CEBOLLA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "146",
+    "nombre": "COCO RALLADO X 50",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "356",
+    "nombre": "TARTA VERDURA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "149",
+    "nombre": "ESENCIA DE PAN DULCE",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "357",
+    "nombre": "TARTA CALABAZA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "148",
+    "nombre": "ESENCIA  AZAHAR",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "358",
+    "nombre": "PAN MOLDE  REBANADO",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "147",
+    "nombre": "ESENCIA DE VAINILLA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "359",
+    "nombre": "PAN SEMILLAS REBANA.",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "152",
+    "nombre": "GELATINA SIN SABOR",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "576",
+    "nombre": "PAN INTEGRAL REBANA.",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "156",
+    "nombre": "PASA SIN SEMILLAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1246",
+    "nombre": "MILANESA NAPOLITANA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "154",
+    "nombre": "POLVO HONEAR X 50",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1247",
+    "nombre": "POLLO STROGONOFF",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "155",
+    "nombre": "POLVO HONEAR X 200",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1248",
+    "nombre": "WOK VEGETALES",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "165",
+    "nombre": "GOMA XANTICA X 50",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1280",
+    "nombre": "CREPES J Y Q",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "162",
+    "nombre": "PM PANADERIA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1459",
+    "nombre": "CREPESVERDURA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "917",
+    "nombre": "HARINA DE LENTEJAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "361",
+    "nombre": "SANWICH MIGA X 4",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1206",
+    "nombre": "HARINA DE GARBANZOS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1361",
+    "nombre": "CURCUMA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "741",
+    "nombre": "PAPAS X 65",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1362",
+    "nombre": "CURRY",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "742",
+    "nombre": "PAPAS X 100",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1363",
+    "nombre": "JENGIBRE MOLIDO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "743",
+    "nombre": "PAPAS X 480",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1364",
+    "nombre": "ROMERO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "966",
+    "nombre": "PAPAS AMERICAN X 100",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1558",
+    "nombre": "PAPAS JAMON 280",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1559",
+    "nombre": "PAPAS JAMON X 65",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "533",
+    "nombre": "TOSTADITAS ARROZ",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "863",
+    "nombre": "TOSTA. ARROZ SIN SAL",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1110",
+    "nombre": "MINI TOSTADA CLASICAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1111",
+    "nombre": "MINI TOSTADA C/SEMILL",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "842",
+    "nombre": "ALFAJOR. BLANCO X 12 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1127",
+    "nombre": "SNACK JAMON",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "843",
+    "nombre": "ALFAJORES NEGRO X 12 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1128",
+    "nombre": "SNACK QUESO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "844",
+    "nombre": "ALFAJORES LIMON X 12 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1473",
+    "nombre": "NACHOS 250GR",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "845",
+    "nombre": "ALFAJOR MARROC X 12 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1472",
+    "nombre": "NACHOS 90GR",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "846",
+    "nombre": "ALFAJOR FRUTILLA X 12 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "850",
+    "nombre": "BARRITAS FRUT. X 20 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "849",
+    "nombre": "BARRITAS CHOCO  X 20 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "167",
+    "nombre": "CHOCOLATE",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "851",
+    "nombre": "BARRITAS DULCE X 20 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "168",
+    "nombre": "VAINILLA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "865",
+    "nombre": "BARRITAS BLANCA X 20 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "169",
+    "nombre": "COCO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1314",
+    "nombre": "BARRITAS LIMON X 20 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "170",
+    "nombre": "LIMON",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "852",
+    "nombre": "TOSTADAS ARROZ",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "171",
+    "nombre": "SCONS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "172",
+    "nombre": "PEPAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "965",
+    "nombre": "TOST. MULTISEMILLAS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "173",
+    "nombre": "MARMOLADAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "853",
+    "nombre": "BIZCOCHO AZUCARADO",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "174",
+    "nombre": "MECHADITAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "979",
+    "nombre": "LIMU X 20 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "175",
+    "nombre": "CUBANAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1055",
+    "nombre": "REPOP NEGRA AVEL. X 20",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "176",
+    "nombre": "ANISETOS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1101",
+    "nombre": "REPOP BLANCA MANI X20",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "177",
+    "nombre": "SALADITAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1241",
+    "nombre": "CHORQUI X 20 U",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "179",
+    "nombre": "PALITOS DE QUESO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1333",
+    "nombre": "CHORQUI FRUTILLA X 20",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "180",
+    "nombre": "VAINILLAS X DOC.",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1262",
+    "nombre": "DADITOS MANI",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "183",
+    "nombre": "ALFAJORES X 6  BLANCO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1263",
+    "nombre": "DADITOS FRUTILLA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "182",
+    "nombre": "ALFAJORES X 6  NEGRO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1502",
+    "nombre": "SNACK PIZZA X50GR",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "185",
+    "nombre": "PM PANIFICADOS X KG.",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1501",
+    "nombre": "SNACK QUESO X50GR",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "186",
+    "nombre": "PM DESLACTOSADA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1503",
+    "nombre": "SNACK JAMON X50GR",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "187",
+    "nombre": "BUDIN VAINILLA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "703",
+    "nombre": "BUDIN LIMON",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "189",
+    "nombre": "BUDIN MARMOLADO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "194",
+    "nombre": "HAMBURGUESAS X 4",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "195",
+    "nombre": "PIZZETAS X 6",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1213",
+    "nombre": "BARRAS CAJU-S.ZAPALLO",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "196",
+    "nombre": "PAN DE PANCHOS X 6",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1214",
+    "nombre": "BARRAS ALMEND-PASAS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "198",
+    "nombre": "PAN RALLADO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1215",
+    "nombre": "BARRAS MANI-QUINOA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1047",
+    "nombre": "OBLEAS BAÑADAS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1056",
+    "nombre": "OBLEAS LIMON",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1106",
+    "nombre": "OBLEAS FRUTILLA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1431",
+    "nombre": "OBLEAS VAINILLA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1432",
+    "nombre": "OBLEAS COCO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1433",
+    "nombre": "OBLEAS CHOCOLATE",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1466",
+    "nombre": "HOJALDRITAS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1162",
+    "nombre": "PALMERITAS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1236",
+    "nombre": "GRISINES C/QUESO",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1237",
+    "nombre": "GRISINES C/SEMILLAS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1163",
+    "nombre": "PAN BLANCO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1238",
+    "nombre": "GRISINES C/CEBOLLA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1164",
+    "nombre": "PAN RUSTICO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1239",
+    "nombre": "GRISINES CLASICOS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1444",
+    "nombre": "PAN FRANCES",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1165",
+    "nombre": "CRACKERS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1",
+    "nombre": "ARROZ REDONDA C/SAL",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1166",
+    "nombre": "SALTI",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "2",
+    "nombre": "ARROZ REDONDA S/SAL",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1168",
+    "nombre": "SALINIS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "3",
+    "nombre": "ARROZ REDONDA DULCE",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1169",
+    "nombre": "MINI SORRISI",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "4",
+    "nombre": "ARROZ CUADRA.C/SAL",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1469",
+    "nombre": "PAN QUINOA-LINO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "5",
+    "nombre": "ARROZ CUADRA.S/SAL",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1470",
+    "nombre": "PAN MANZANA Y CANELA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "6",
+    "nombre": "ARROZ CUADRA.DULCE",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1172",
+    "nombre": "WAFERS ALLA VANIGLIA",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "8",
+    "nombre": "PEPAS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1173",
+    "nombre": "DIGESTIVE",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "9",
+    "nombre": "CHIPS",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1174",
+    "nombre": "DIGESTIVE CHOCO",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "10",
+    "nombre": "RUEDITAS VAINILLA",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1175",
+    "nombre": "CUSTARD CREAMS",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "11",
+    "nombre": "RUEDITAS CHOCOLATE",
+    "categoria": "CUADRADITO MANZA",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1177",
+    "nombre": "SPAGHETTI",
+    "categoria": "COMINO",
+    "origen": "PEDIDO HOJA 2"
+  },
+  {
+    "id": "1267",
+    "nombre": "ALFAJOR ZAP. Y ALGARR.",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1307",
+    "nombre": "ALF.AVELLA/MEMB NEGRO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1483.0",
+    "nombre": "HARINA DE ALMENDRAS",
+    "categoria": "Sin categoría",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1308",
+    "nombre": "ALF.AVELLA/MEMB BLANCO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1481.0",
+    "nombre": "CORAZON DE FRUTILLA",
+    "categoria": "Sin categoría",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1434",
+    "nombre": "ALFAJOR DE MANI",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1482.0",
+    "nombre": "RELLENO DE FRUTILLA",
+    "categoria": "Sin categoría",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1528",
+    "nombre": "GALLETITAS DE NUEZ X130GR",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1527",
+    "nombre": "GALLETITAS CACAO Y MANI X130GR",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1549",
+    "nombre": "GALLETITAS NUEZ BAÑADAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1632",
+    "nombre": "ALFAJOR CACAO Y MANI",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1270",
+    "nombre": "BEB.ALMENDRA ORIGIN.",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1272",
+    "nombre": "BEB.ALMENDRA VAINILLA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1274",
+    "nombre": "BEB.ALMENDRA VAI S/AZU",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1275",
+    "nombre": "BEB.ALMENDRA CHOCO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1276",
+    "nombre": "BEB.ALMENDRA Y COCO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1277",
+    "nombre": "BEB.CASTAÑAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1278",
+    "nombre": "BEB. CASTAÑAS Y VAINILLA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1293",
+    "nombre": "PEPAS BATATA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "TAPAS PASCUALINAS VEGA",
+    "nombre": "",
+    "categoria": "Sin categoría",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1294",
+    "nombre": "PEPAS MEMBRILLO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1295",
+    "nombre": "PEPAS FRUTOS ROJOS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1296",
+    "nombre": "PEPAS DULCE LECHE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1298",
+    "nombre": "MERENGUITOS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1523.0",
+    "nombre": "APTO VEGANO",
+    "categoria": "Sin categoría",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1299",
+    "nombre": "ALFAJOR MAICENA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1524.0",
+    "nombre": "APTO VEGANO",
+    "categoria": "Sin categoría",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1300",
+    "nombre": "PALMERITAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1522.0",
+    "nombre": "APTO VEGANO",
+    "categoria": "Sin categoría",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1301",
+    "nombre": "POLVORON MARMOLADO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1302",
+    "nombre": "POLVORON VAINILLA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1303",
+    "nombre": "SCON NUEZ",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1304",
+    "nombre": "SCON CHIP CHOCOLATE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1305",
+    "nombre": "SCON PASAS UVA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1306",
+    "nombre": "VAINILLAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1353",
+    "nombre": "MASAS SECAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1320",
+    "nombre": "PAN HAMBURGUESAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1321",
+    "nombre": "PAN CHIPS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1322",
+    "nombre": "PIZZETAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1323",
+    "nombre": "PASTAFROLA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1324",
+    "nombre": "ALFAJOR MAICENA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1325",
+    "nombre": "VAINILLAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1326",
+    "nombre": "BUDIN RELLENO DDL",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1327",
+    "nombre": "COQUITOS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1328",
+    "nombre": "BROWNIE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1329",
+    "nombre": "MINI BOMBON",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1330",
+    "nombre": "MINI COCO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1337",
+    "nombre": "GALLETITAS NARANJA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1338",
+    "nombre": "GALLETITAS LIMON",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1339",
+    "nombre": "GALLETITAS CHOCOLATE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1340",
+    "nombre": "GALLETITAS CHIPS CHOCO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1341",
+    "nombre": "GALLETITAS COCO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1342",
+    "nombre": "GALLETITAS PEPAS MEMBRILLO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1464",
+    "nombre": "GALLETITAS PEPAS BATATA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1360",
+    "nombre": "GALLETITAS MIEL",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1422",
+    "nombre": "BIZCOCHOS SALADOS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1343",
+    "nombre": "PM ÑOQUIS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1344",
+    "nombre": "PM PAN",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1345",
+    "nombre": "PM UNIVERSAL",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1346",
+    "nombre": "PM BIZCOCH. VAINILLA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1347",
+    "nombre": "PM BIZCOCH. CHOCOLATE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1348",
+    "nombre": "PM PIZZA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1428",
+    "nombre": "REBOZADOR",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1547",
+    "nombre": "BIZCOCHOS OLIVA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1545",
+    "nombre": "BIZCOCHOS PIZZA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1546",
+    "nombre": "BIZCOCHOS QUESO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1544",
+    "nombre": "PREMEZCLA PAN INTETGRAL",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1631",
+    "nombre": "AVENTURA CHOCO/CHOCO BLANCO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1630",
+    "nombre": "AVENTURA CHOCOLATE/CHOCOLATE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1629",
+    "nombre": "AVENTURA VAINILLA/CHOCOLATE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1623",
+    "nombre": "GALLETITAS CHOCOLATE Y DDL",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1625",
+    "nombre": "GALLETITAS LECHE CONDENSADA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1624",
+    "nombre": "GALLETITAS NARANJA Y LIMA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1622",
+    "nombre": "MARINERITAS BAÑADAS CHOCOLATE",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1619",
+    "nombre": "MARINERITAS CLASICAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1621",
+    "nombre": "MARINERITAS CON QUESO",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1620",
+    "nombre": "MARINERITAS CON SEMILLAS",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1627",
+    "nombre": "RELLENAS CHOCOLATE/AVELLANA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1626",
+    "nombre": "RELLENAS CHOCOLATE/LIMA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  },
+  {
+    "id": "1628",
+    "nombre": "RELLENAS VAINILLA/FRAMBUESA",
+    "categoria": "ALFAJOR DE NUEZ",
+    "origen": "PEDIDO HOJA 3"
+  }
+]

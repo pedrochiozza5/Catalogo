@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catálogo de Productos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="navbar">
+    <h1>🛒 Catálogo de Productos</h1>
+    <input type="text" id="searchInput" placeholder="Buscar productos..." />
+  </header>
+
+  <section class="filtros">
+    <label for="categoriaSelect">Categoría:</label>
+    <select id="categoriaSelect">
+      <option value="todos">Todas</option>
+    </select>
+
+    <label for="origenSelect">Origen:</label>
+    <select id="origenSelect">
+      <option value="todos">Todos</option>
+    </select>
+  </section>
+
+  <main id="catalogo" class="grid"></main>
+  <div id="paginacion" class="paginacion"></div>
+
+  <footer>
+    <p>© 2025 - Tu Empresa</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
