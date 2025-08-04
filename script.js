@@ -1,3 +1,5 @@
+const carrito = [];
+
 document.addEventListener("DOMContentLoaded", () => {
   const catalogo = document.getElementById("catalogo");
   const searchInput = document.getElementById("searchInput");
@@ -5,6 +7,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const paginacion = document.getElementById("paginacion");
   const errorMsg = document.getElementById("error-message");
   const loadingMsg = document.getElementById("loading");
+  const abrirCarritoBtn = document.getElementById("abrir-carrito");
+  const cerrarModalCarritoBtn = document.getElementById("cerrar-modal-carrito");
+  const finalizarBtn = document.getElementById("finalizar-btn");
+  const cerrarFormularioBtn = document.getElementById("cerrar-modal-formulario");
+  const enviarWppBtn = document.getElementById("enviar-pedido");
 
   const productosPorPagina = 20;
   let productos = [];
@@ -57,13 +64,13 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  searchInput?.addEventListener("input", e => {
+  searchInput.addEventListener("input", e => {
     busquedaActual = e.target.value.toLowerCase();
     paginaActual = 1;
     render();
   });
 
-  categoriaSelect?.addEventListener("change", e => {
+  categoriaSelect.addEventListener("change", e => {
     categoriaActual = e.target.value;
     paginaActual = 1;
     render();
@@ -90,12 +97,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     catalogo.innerHTML = visibles.map(p => `
       <div class="card">
-        <img class="card-img" src="images/${p.id}.jpg" alt="${p.nombre || 'Imagen de producto'}" onerror="this.src='images/default.png'">
+        <img class="card-img" src="images/${p.id}.jpg" alt="${p.nombre}" onerror="this.src='images/default.png'">
         <div class="card-content">
-          <h3>${p.nombre || 'Producto sin nombre'}</h3>
-          <p><strong>ID:</strong> <span class="card-codigo">${p.id}</span></p>
-          <p><strong>Categoría:</strong> ${p.categoria || 'Sin categoría'}</p>
-          <p class="card-price"><strong>Precio:</strong> $${p.precio?.toFixed(2) || '0.00'}</p>
+          <h3>${p.nombre}</h3>
+          <p><strong>ID:</strong> ${p.id}</p>
+          <p><strong>Categoría:</strong> ${p.categoria}</p>
+          <p class="card-price"><strong>Precio:</strong> $${p.precio.toFixed(2)}</p>
           <button onclick='agregarAlCarrito(${JSON.stringify(p)})'>Agregar al carrito</button>
         </div>
       </div>
@@ -114,23 +121,16 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  // Eventos de modales y formulario (agregados al DOMContentLoaded para evitar errores)
-
-  const abrirCarritoBtn = document.getElementById('abrir-carrito');
-  const cerrarModalCarritoBtn = document.getElementById('cerrar-modal-carrito');
-  const finalizarBtn = document.getElementById('finalizar-btn');
-  const cerrarFormularioBtn = document.getElementById('cerrar-modal-formulario');
-  const enviarWppBtn = document.getElementById('enviar-wpp');
-
-  abrirCarritoBtn?.addEventListener('click', () => {
+  abrirCarritoBtn.addEventListener('click', () => {
     document.getElementById('modal-carrito').style.display = 'block';
+    actualizarCarrito();
   });
 
-  cerrarModalCarritoBtn?.addEventListener('click', () => {
+  cerrarModalCarritoBtn.addEventListener('click', () => {
     document.getElementById('modal-carrito').style.display = 'none';
   });
 
-  finalizarBtn?.addEventListener('click', () => {
+  finalizarBtn.addEventListener('click', () => {
     if (carrito.length === 0) {
       alert("Tu carrito está vacío.");
       return;
@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById('modal-formulario').style.display = 'block';
   });
 
-  cerrarFormularioBtn?.addEventListener('click', () => {
+  cerrarFormularioBtn.addEventListener('click', () => {
     document.getElementById('modal-formulario').style.display = 'none';
   });
 
@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (event.target === modalFormulario) modalFormulario.style.display = 'none';
   });
 
-  enviarWppBtn?.addEventListener('click', (event) => {
+  enviarWppBtn.addEventListener('click', (event) => {
     event.preventDefault();
 
     const nombre = document.getElementById('nombre').value.trim();
@@ -181,12 +181,8 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-// Carrito y funciones auxiliares
-
-const carrito = [];
-
 function agregarAlCarrito(producto) {
-  const existente = carrito.find(item => item.id === producto.id);
+  const existente = carrito.find(p => p.id === producto.id);
   if (existente) {
     existente.cantidad++;
   } else {
@@ -212,8 +208,8 @@ function actualizarCarrito() {
     const li = document.createElement('li');
     li.innerHTML = `
       ${item.nombre} (Cod: ${item.id}) - $${item.precio.toFixed(2)} c/u
-      <input type="number" min="1" value="${item.cantidad}" style="width: 50px; margin-left: 10px;" onchange="cambiarCantidad(${index}, this.value)">
-      <button onclick="eliminarDelCarrito(${index})" style="margin-left: 10px;">❌</button>
+      <input type="number" min="1" value="${item.cantidad}" style="width: 50px;" onchange="cambiarCantidad(${index}, this.value)">
+      <button onclick="eliminarDelCarrito(${index})">❌</button>
     `;
     lista.appendChild(li);
   });
@@ -223,8 +219,8 @@ function actualizarCarrito() {
 }
 
 function cambiarCantidad(index, valor) {
-  const nuevaCantidad = parseInt(valor);
-  carrito[index].cantidad = nuevaCantidad > 0 ? nuevaCantidad : 1;
+  const cantidad = parseInt(valor);
+  carrito[index].cantidad = cantidad > 0 ? cantidad : 1;
   actualizarCarrito();
 }
 
