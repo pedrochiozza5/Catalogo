@@ -57,13 +57,13 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  searchInput.addEventListener("input", e => {
+  searchInput?.addEventListener("input", e => {
     busquedaActual = e.target.value.toLowerCase();
     paginaActual = 1;
     render();
   });
 
-  categoriaSelect.addEventListener("change", e => {
+  categoriaSelect?.addEventListener("change", e => {
     categoriaActual = e.target.value;
     paginaActual = 1;
     render();
@@ -96,11 +96,11 @@ document.addEventListener("DOMContentLoaded", () => {
           <p><strong>ID:</strong> <span class="card-codigo">${p.id}</span></p>
           <p><strong>Categoría:</strong> ${p.categoria || 'Sin categoría'}</p>
           <p class="card-price"><strong>Precio:</strong> $${p.precio?.toFixed(2) || '0.00'}</p>
+          <button onclick='agregarAlCarrito(${JSON.stringify(p)})'>Agregar al carrito</button>
         </div>
       </div>
     `).join("");
 
-    // Paginación
     paginacion.innerHTML = "";
     for (let i = 1; i <= totalPaginas; i++) {
       const btn = document.createElement("button");
@@ -113,4 +113,138 @@ document.addEventListener("DOMContentLoaded", () => {
       paginacion.appendChild(btn);
     }
   }
+
+  // Eventos de modales y formulario (agregados al DOMContentLoaded para evitar errores)
+
+  const abrirCarritoBtn = document.getElementById('abrir-carrito');
+  const cerrarModalCarritoBtn = document.getElementById('cerrar-modal-carrito');
+  const finalizarBtn = document.getElementById('finalizar-btn');
+  const cerrarFormularioBtn = document.getElementById('cerrar-modal-formulario');
+  const enviarWppBtn = document.getElementById('enviar-wpp');
+
+  abrirCarritoBtn?.addEventListener('click', () => {
+    document.getElementById('modal-carrito').style.display = 'block';
+  });
+
+  cerrarModalCarritoBtn?.addEventListener('click', () => {
+    document.getElementById('modal-carrito').style.display = 'none';
+  });
+
+  finalizarBtn?.addEventListener('click', () => {
+    if (carrito.length === 0) {
+      alert("Tu carrito está vacío.");
+      return;
+    }
+    document.getElementById('modal-carrito').style.display = 'none';
+    document.getElementById('modal-formulario').style.display = 'block';
+  });
+
+  cerrarFormularioBtn?.addEventListener('click', () => {
+    document.getElementById('modal-formulario').style.display = 'none';
+  });
+
+  window.addEventListener('click', function(event) {
+    const modalCarrito = document.getElementById('modal-carrito');
+    const modalFormulario = document.getElementById('modal-formulario');
+    if (event.target === modalCarrito) modalCarrito.style.display = 'none';
+    if (event.target === modalFormulario) modalFormulario.style.display = 'none';
+  });
+
+  enviarWppBtn?.addEventListener('click', (event) => {
+    event.preventDefault();
+
+    const nombre = document.getElementById('nombre').value.trim();
+    const correo = document.getElementById('correo').value.trim();
+    const direccion = document.getElementById('direccion').value.trim();
+    const telefono = document.getElementById('telefono').value.trim();
+
+    if (!nombre || !correo || !direccion || !telefono) {
+      alert("Por favor completá todos los datos.");
+      return;
+    }
+
+    let mensaje = `Hola, quiero hacer un pedido:\n\n`;
+    carrito.forEach(p => {
+      mensaje += `• ${p.nombre} (Código: ${p.id}) x${p.cantidad} - $${(p.precio * p.cantidad).toFixed(2)}\n`;
+    });
+
+    const total = carrito.reduce((acc, p) => acc + p.precio * p.cantidad, 0);
+    mensaje += `\n💰 Total a pagar: $${total.toFixed(2)}\n\n`;
+    mensaje += `🧾 Datos del cliente:\n`;
+    mensaje += `• Nombre: ${nombre}\n`;
+    mensaje += `• Correo: ${correo}\n`;
+    mensaje += `• Dirección: ${direccion}\n`;
+    mensaje += `• Teléfono: ${telefono}`;
+
+    const url = `https://wa.me/5492241540585?text=${encodeURIComponent(mensaje)}`;
+    window.open(url, '_blank');
+  });
 });
+
+// Carrito y funciones auxiliares
+
+const carrito = [];
+
+function agregarAlCarrito(producto) {
+  const existente = carrito.find(item => item.id === producto.id);
+  if (existente) {
+    existente.cantidad++;
+  } else {
+    carrito.push({ ...producto, cantidad: 1 });
+  }
+  actualizarCarrito();
+  mostrarToast();
+  actualizarCarritoUI();
+}
+
+function actualizarCarrito() {
+  const lista = document.getElementById('carrito-lista');
+  const totalDiv = document.getElementById('carrito-total');
+  if (!lista || !totalDiv) return;
+
+  lista.innerHTML = '';
+  let total = 0;
+
+  carrito.forEach((item, index) => {
+    const subtotal = item.precio * item.cantidad;
+    total += subtotal;
+
+    const li = document.createElement('li');
+    li.innerHTML = `
+      ${item.nombre} (Cod: ${item.id}) - $${item.precio.toFixed(2)} c/u
+      <input type="number" min="1" value="${item.cantidad}" style="width: 50px; margin-left: 10px;" onchange="cambiarCantidad(${index}, this.value)">
+      <button onclick="eliminarDelCarrito(${index})" style="margin-left: 10px;">❌</button>
+    `;
+    lista.appendChild(li);
+  });
+
+  totalDiv.textContent = `Total a pagar: $${total.toFixed(2)}`;
+  actualizarCarritoUI();
+}
+
+function cambiarCantidad(index, valor) {
+  const nuevaCantidad = parseInt(valor);
+  carrito[index].cantidad = nuevaCantidad > 0 ? nuevaCantidad : 1;
+  actualizarCarrito();
+}
+
+function eliminarDelCarrito(index) {
+  carrito.splice(index, 1);
+  actualizarCarrito();
+}
+
+function actualizarCarritoUI() {
+  const totalCantidad = carrito.reduce((sum, item) => sum + item.cantidad, 0);
+  const contador = document.getElementById('contador-carrito');
+  if (contador) contador.textContent = totalCantidad;
+}
+
+function mostrarToast() {
+  const toast = document.getElementById('toast');
+  if (toast) {
+    toast.classList.add('mostrar');
+    setTimeout(() => {
+      toast.classList.remove('mostrar');
+    }, 2000);
+  }
+}

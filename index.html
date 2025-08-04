@@ -5,180 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catálogo de Productos</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        * {
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        body {
-            margin: 0;
-            padding: 20px;
-            background-color: #f5f5f5;
-            color: #333;
-        }
-        header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 30px;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-        h1 {
-            color: #2c3e50;
-            margin: 0;
-        }
-        .filtros {
-            display: flex;
-            gap: 15px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-        }
-        .filtros input, .filtros select {
-            padding: 10px 15px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            font-size: 16px;
-            min-width: 250px;
-        }
-        .filtros input:focus, .filtros select:focus {
-            outline: 2px solid #3498db;
-        }
-        #catalogo {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 20px;
-            margin-bottom: 30px;
-        }
-        .card {
-            background: white;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        }
-        .card h3 {
-            margin: 0 0 10px 0;
-            color: #2c3e50;
-            font-size: 1.2rem;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
-        }
-        .card p {
-            margin: 6px 0;
-            font-size: 0.9rem;
-        }
-        .card-price {
-            font-weight: bold;
-            color: #e74c3c;
-            font-size: 1.1rem;
-            margin-top: 15px;
-        }
-        .card-codigo {
-            font-family: monospace;
-            background: #f5f5f5;
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
-        #paginacion {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin-top: 30px;
-        }
-        #paginacion button {
-            padding: 8px 15px;
-            background: #3498db;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            transition: background 0.2s;
-        }
-        #paginacion button:hover {
-            background: #2980b9;
-        }
-        #paginacion button.active {
-            background: #2c3e50;
-        }
-        #loading {
-          text-align: center;
-          padding: 20px;
-          font-style: italic;
-          color: #666;
-        }
-        .error-message {
-          color: #e74c3c;
-          padding: 20px;
-          text-align: center;
-          background: #ffeeee;
-          border-radius: 5px;
-          margin: 20px 0;
-        }
-        .promociones {
-            background: #fff8e1;
-            padding: 25px;
-            border-radius: 10px;
-            margin: 40px 0;
-            border-left: 5px solid #ff9800;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-        }
-        .promociones h2 {
-            margin: 0 0 15px 0;
-            color: #ff6b00;
-            font-size: 1.5rem;
-        }
-        .promo-item {
-            margin-bottom: 10px;
-            padding: 10px;
-            background: white;
-            border-radius: 5px;
-        }
-        @media (max-width: 600px) {
-            #catalogo {
-                grid-template-columns: 1fr;
-            }
-            .filtros {
-                flex-direction: column;
-            }
-            .filtros input, .filtros select {
-                width: 100%;
-            }
-        }
-        .card {
-    display: flex;
-    flex-direction: column;
-    background: white;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
-}
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
-.card:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 6px 15px rgba(0,0,0,0.15);
-}
-
-.card-img {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    border-bottom: 1px solid #eee;
-}
-
-.card-content {
-    padding: 15px 20px;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-}
-
-    </style>
 </head>
 <body>
     <header>
@@ -190,6 +19,9 @@
             </select>
         </div>
     </header>
+
+
+
 
     <main>
         <div id="catalogo">
@@ -205,6 +37,63 @@
         
         
     </main>
+<!-- BOTÓN FLOTANTE -->
+<button id="abrir-carrito" class="btn-carrito">
+  🛒 Ver Carrito <span id="contador-carrito">0</span>
+</button>
+
+
+<!-- MODAL CARRITO -->
+<div id="modal-carrito" class="modal">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2><i class="bi bi-cart"></i> Tu Carrito</h2>
+      <span id="cerrar-modal-carrito" class="close">&times;</span>
+    </div>
+    <div class="modal-body">
+      <ul id="carrito-lista"></ul>
+    </div>
+    <div class="modal-footer">
+      <p id="carrito-total"><strong>Total:</strong> $0.00</p>
+      <button id="finalizar-btn">Finalizar Pedido</button>
+    </div>
+  </div>
+</div>
+
+
+<!-- MODAL FORMULARIO -->
+<div id="modal-formulario" class="modal">
+  <div class="modal-content form">
+    <div class="modal-header">
+      <h2><i class="bi bi-person-lines-fill"></i> Tus datos</h2>
+      <span id="cerrar-modal-formulario" class="close">&times;</span>
+    </div>
+    <div class="modal-body">
+      <form id="formulario-datos">
+        <div class="form-group">
+          <label for="nombre">Nombre completo</label>
+          <input type="text" id="nombre" required>
+        </div>
+        <div class="form-group">
+          <label for="telefono">Teléfono</label>
+          <input type="tel" id="telefono" required>
+        </div>
+        <div class="form-group">
+          <label for="direccion">Dirección</label>
+          <input type="text" id="direccion" required>
+        </div>
+        <div class="form-group">
+          <label for="correo">Correo electrónico</label>
+          <input type="email" id="correo" required>
+        </div>
+        <button type="submit" id="enviar-pedido">Enviar pedido por WhatsApp</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+<div id="toast" class="toast">Producto agregado al carrito ✅</div>
 
     <script src="script.js"></script>
 </body>
